@@ -1,6 +1,10 @@
 {
   "installCommand": "pnpm install",
-  "buildCommand": "pnpm run export",
+  "buildCommand": "pnpm run export && cp dist/+not-found.html dist/404.html",
   "outputDirectory": "dist",
-  "framework": null
+  "framework": null,
+  "cleanUrls": true,
+  "rewrites": [
+    { "source": "/product/(.*)", "destination": "/product/[id]" }
+  ]
 }
