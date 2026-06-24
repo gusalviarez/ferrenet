@@ -1,0 +1,2282 @@
+[
+  {
+    "name": "Bloque 10 x 20 x 30 cm",
+    "price": 0.75,
+    "sku": "VE-3029007",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/7/f/7f5d12c8-8a70-4f73-8551-77dc46194374.jpg",
+    "product_url": "https://ve.epaenlinea.com/bloque-10x20x30cm.html",
+    "in_stock": true
+  },
+  {
+    "name": "Ladrillo 16 huecos Z1 5 x 12 x 25 cm",
+    "price": 0.78,
+    "sku": "VE-3029014",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/8/f/8f196ab1-3f92-4935-b148-73071d38f5a9.jpg",
+    "product_url": "https://ve.epaenlinea.com/ladrillo-16-huecos-z1-de-5x12x25cm.html",
+    "in_stock": true
+  },
+  {
+    "name": "Mitad de bloque Trincote",
+    "price": 0.82,
+    "sku": "VE-3029318",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/f/1/f19d5318-765c-4665-ab67-ed1e32203b81.jpg",
+    "product_url": "https://ve.epaenlinea.com/mitad-de-trincote.html",
+    "in_stock": true
+  },
+  {
+    "name": "Bloque 15 x 20 x 30 cm",
+    "price": 0.85,
+    "sku": "VE-3029008",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/3/b/3b4adeef-ac8d-4104-a4ee-74e3ea36210c.jpg",
+    "product_url": "https://ve.epaenlinea.com/bloque-15-x-20-x-30-cm.html",
+    "in_stock": true
+  },
+  {
+    "name": "Ladrillo 3 puntas 5 x 12 x 25 cm",
+    "price": 0.94,
+    "sku": "VE-3029009",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/e/b/eb62d949-596a-4d14-8790-92007dd042fb.jpg",
+    "product_url": "https://ve.epaenlinea.com/ladrillo-de-3-puntas-5-x-12-x-25-cm.html",
+    "in_stock": true
+  },
+  {
+    "name": "Ladrillo curvo",
+    "price": 0.94,
+    "sku": "VE-3029013",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/5/7/57bdb332-6680-47fb-81b9-10dbdc61d77a.jpg",
+    "product_url": "https://ve.epaenlinea.com/ladrillo-curvo.html",
+    "in_stock": true
+  },
+  {
+    "name": "Trincote Z1 12 x 15 x 30 cm",
+    "price": 1.13,
+    "sku": "VE-3029218",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/e/a/eafc5e3a-8484-4dd7-bdb1-21246c23d1b9.jpg",
+    "product_url": "https://ve.epaenlinea.com/trincote-z1-de-12x15x30-cm.html",
+    "in_stock": true
+  },
+  {
+    "name": "Teja caribe ejecutiva",
+    "price": 1.75,
+    "sku": "VE-3024003",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/0/d/0de53a7b-9a7f-4358-a39f-e082dc198e25.jpg",
+    "product_url": "https://ve.epaenlinea.com/teja-caribe-ejecutiva.html",
+    "in_stock": true
+  },
+  {
+    "name": "Ladrillo de ventilación 15 x 15 x 15 cm",
+    "price": 1.76,
+    "sku": "VE-3029011",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/b/3/b321f167-549f-406e-b524-fd9dcd83f049.jpg",
+    "product_url": "https://ve.epaenlinea.com/ladrillo-de-ventilacion-15-x-15-x-15-cm.html",
+    "in_stock": true
+  },
+  {
+    "name": "Cal en polvo 1 kg",
+    "price": 1.94,
+    "sku": "VE-3025017",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/0/1/013b9795-2545-43e4-8d4a-e0811a7403c9.jpg",
+    "product_url": "https://ve.epaenlinea.com/cal-en-polvo-de-1-kg.html",
+    "in_stock": true
+  },
+  {
+    "name": "Tabelon 6 x 20 x 80 cm",
+    "price": 2.05,
+    "sku": "VE-3016045",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/6/0/60fe7154-81f3-4798-b7ce-b890f0389cb1.jpg",
+    "product_url": "https://ve.epaenlinea.com/tabelon-6x20x80cm.html",
+    "in_stock": true
+  },
+  {
+    "name": "Ladrillo macizo Z1 5 x 12 x 25 cm",
+    "price": 2.16,
+    "sku": "VE-3029012",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/5/7/5784e49d-1b53-474c-961b-1691045822f7.jpg",
+    "product_url": "https://ve.epaenlinea.com/ladrillo-macizo-z1-de-5-x-12-x-25-cm.html",
+    "in_stock": true
+  },
+  {
+    "name": "Malla seguridad plástica 1,22 m",
+    "price": 2.2,
+    "sku": "VE-3052050",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/4/4/444b789f-8ea1-4652-9f15-99a49389027b.jpg",
+    "product_url": "https://ve.epaenlinea.com/malla-seguridad-plastica-de-1-22m.html",
+    "in_stock": true
+  },
+  {
+    "name": "Tabelon 8 x 20 x 80 cm",
+    "price": 2.2,
+    "sku": "VE-3016046",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/5/8/58439c55-ef63-4b69-b522-e54410455ed4.jpg",
+    "product_url": "https://ve.epaenlinea.com/tabelon-8x20x80cm.html",
+    "in_stock": true
+  },
+  {
+    "name": "Malla pollito 1\" x 90 cm (precio por metro)",
+    "price": 2.22,
+    "sku": "VE-3050091",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/7/d/7d531038-0915-4271-9b30-e9a050d6268c.jpg",
+    "product_url": "https://ve.epaenlinea.com/malla-pollito-1-x-0-90m-x-25-metros-de-largo.html",
+    "in_stock": true
+  },
+  {
+    "name": "Arena cernida 15 kg",
+    "price": 2.36,
+    "sku": "VE-3028045",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/9/4/943bdc73-c62a-4da6-a92a-d97bd9ba1c24.jpg",
+    "product_url": "https://ve.epaenlinea.com/arena-cernida-15-kg.html",
+    "in_stock": true
+  },
+  {
+    "name": "Yeso 1 kg",
+    "price": 2.36,
+    "sku": "VE-3025018",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/4/2/4299b2c9-b681-48f7-900f-41c5a50c9ad9.jpg",
+    "product_url": "https://ve.epaenlinea.com/yeso-de-1-kg.html",
+    "in_stock": true
+  },
+  {
+    "name": "Malla mosquitera plástico verde 1,03 m (precio por metro)",
+    "price": 2.6,
+    "sku": "VE-3048038",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/a/a/aacd2340-8c69-4e3e-b6b2-616922537245.jpg",
+    "product_url": "https://ve.epaenlinea.com/malla-para-mosquitero-plastico-color-verde-1-03m-ancho-precio-por-metro.html",
+    "in_stock": true
+  },
+  {
+    "name": "Malla mosquitera negra 1,03 m (precio por metro)",
+    "price": 2.6,
+    "sku": "VE-3048039",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/f/a/fa102790-1c5a-4280-87e4-8de11dd709e0.jpg",
+    "product_url": "https://ve.epaenlinea.com/malla-mosquitero-negro.html",
+    "in_stock": true
+  },
+  {
+    "name": "Malla mosquitera plastica gris (precio por metro)",
+    "price": 2.6,
+    "sku": "VE-3048037",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/0/c/0c0f20d8-a69e-4ac0-b619-d76b5140dcb5.jpg",
+    "product_url": "https://ve.epaenlinea.com/malla-para-mosquitero-plastico-gris.html",
+    "in_stock": true
+  },
+  {
+    "name": "Arena lavada 15 kg",
+    "price": 2.61,
+    "sku": "VE-3028046",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/c/b/cb44e64d-43cd-4bc5-a64c-b6dfed04e3aa.jpg",
+    "product_url": "https://ve.epaenlinea.com/arena-lavada-15-kg.html",
+    "in_stock": true
+  },
+  {
+    "name": "Malla Hex Pollito 1\" x 1 m",
+    "price": 2.61,
+    "sku": "VE-3050069",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/9/d/9dc06283-94c0-4af1-9b7d-b91f81608822.jpg",
+    "product_url": "https://ve.epaenlinea.com/pollito-1-x1m.html",
+    "in_stock": true
+  },
+  {
+    "name": "Esquinero metálico 2,44 m",
+    "price": 2.61,
+    "sku": "VE-3020103",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/b/d/bdeb85ba-1bb3-4274-884c-8eae1ce519d7.jpg",
+    "product_url": "https://ve.epaenlinea.com/esquinero-metalico-2-44m.html",
+    "in_stock": true
+  },
+  {
+    "name": "Estuco gris 1kg",
+    "price": 2.81,
+    "sku": "VE-3026112",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/5/0/501957e2-f97e-4acd-aa98-4dabfbff2b2d.jpg",
+    "product_url": "https://ve.epaenlinea.com/estuco-gris-1kg.html",
+    "in_stock": true
+  },
+  {
+    "name": "Malla pollito hexagonal de acero galvanizado 1\" x 1,50 m",
+    "price": 3.0,
+    "sku": "VE-3050121",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/e/b/ebeb7726-043c-41d0-8213-60a53c531b07.jpg",
+    "product_url": "https://ve.epaenlinea.com/malla-pollito-hexagonal-de-acero-galvanizado-1-x-1-50-m.html",
+    "in_stock": true
+  },
+  {
+    "name": "Malla pajarera construcción ¾\" x 1\" C-21 (venta por metro)",
+    "price": 3.09,
+    "sku": "VE-3050120",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/2/0/207f1159-ab3c-4f3f-bcac-cbed491f48e9.jpg",
+    "product_url": "https://ve.epaenlinea.com/malla-pajarera-construccion-x-1-c-21-venta-por-metro.html",
+    "in_stock": true
+  },
+  {
+    "name": "Cemento blanco 1 kg",
+    "price": 3.22,
+    "sku": "VE-3026109",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/3/e/3ef2340b-ffb6-4749-80d5-a330e63724da.jpg",
+    "product_url": "https://ve.epaenlinea.com/cemento-blanco-1-kg.html",
+    "in_stock": true
+  },
+  {
+    "name": "Malla mosquitera plástica gris 1,22 m (precio por metro)",
+    "price": 3.25,
+    "sku": "VE-3048022",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/f/7/f72968a6-ed69-453b-9a6b-ed35b636a44d.jpg",
+    "product_url": "https://ve.epaenlinea.com/malla-mosquitero-gris-1-22-p-mtr.html",
+    "in_stock": true
+  },
+  {
+    "name": "Malla mosquitera fibra vidrio 1,05 m (precio por metro)",
+    "price": 3.27,
+    "sku": "VE-3050118",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/6/e/6e2d3d02-e759-44e1-945a-6d10ed78a293.jpg",
+    "product_url": "https://ve.epaenlinea.com/masq-fibra-vid-1-05.html",
+    "in_stock": true
+  },
+  {
+    "name": "Malla diamante plástica 11x11 100 cm verde (Precio de metro)",
+    "price": 3.31,
+    "sku": "VE-3052052",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/5/3/5324d041-1f0c-4313-83ab-a61fc4354b96.jpg",
+    "product_url": "https://ve.epaenlinea.com/malla-diamante-plastica-11x11-alto-100cm-verde-precio-de-metro.html",
+    "in_stock": true
+  },
+  {
+    "name": "Malla diamante plástica 11x11 100 cm negra (Precio de venta)",
+    "price": 3.31,
+    "sku": "VE-3052053",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/2/a/2a66bc1c-51f6-46af-ad2c-2c8141341057.jpg",
+    "product_url": "https://ve.epaenlinea.com/malla-diamante-plastica-11x11-alto-100cm-negra-precio-de-venta.html",
+    "in_stock": true
+  },
+  {
+    "name": "Piedra picada 15 kg",
+    "price": 3.34,
+    "sku": "VE-3028048",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/d/1/d1197c50-f4c1-44c0-99d0-e381e5910540.jpg",
+    "product_url": "https://ve.epaenlinea.com/piedra-picada-15-kg.html",
+    "in_stock": true
+  },
+  {
+    "name": "Arrocillo 15 kg",
+    "price": 3.34,
+    "sku": "VE-3028049",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/d/9/d9a6f248-5a30-4621-899a-3048fd63baf6.jpg",
+    "product_url": "https://ve.epaenlinea.com/arrocillo-15-kg.html",
+    "in_stock": true
+  },
+  {
+    "name": "Arena mezclilla 15 kg",
+    "price": 3.43,
+    "sku": "VE-3028047",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/5/a/5a0a1e91-64de-41c3-9c52-866d29c2c437.jpg",
+    "product_url": "https://ve.epaenlinea.com/arena-mezclilla-15-kg.html",
+    "in_stock": true
+  },
+  {
+    "name": "Estuco blanco 1 kg",
+    "price": 3.45,
+    "sku": "VE-3026111",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/6/2/6295cdef-8698-4c2a-a619-fd4e661b0d02.jpg",
+    "product_url": "https://ve.epaenlinea.com/estuco-blanco-de-1kg.html",
+    "in_stock": true
+  },
+  {
+    "name": "Perfil ángulo blanco 3 m",
+    "price": 3.59,
+    "sku": "VE-3015008",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/1/2/12e1f2cf-38c4-4f06-a5e7-ce49c0d90c5f.jpg",
+    "product_url": "https://ve.epaenlinea.com/perfil-angulo.html",
+    "in_stock": true
+  },
+  {
+    "name": "Malla reja 15x15 verde 103 cm (precio por metro)",
+    "price": 3.7,
+    "sku": "VE-3052054",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/b/7/b71ed440-3470-4f8e-9b2c-4934fcbd66c0.jpg",
+    "product_url": "https://ve.epaenlinea.com/malla-reja-15x15-verde-103cm-precio-de-venta-por-metro.html",
+    "in_stock": true
+  },
+  {
+    "name": "Moldura de poliestireno H15 2 m",
+    "price": 3.73,
+    "sku": "VE-2023004",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/7/1/7157530d-1cff-4aa5-9e09-a6af95a3e301.jpg",
+    "product_url": "https://ve.epaenlinea.com/moldura-decorativa-h15-poliestireno-de-2m-para-pared-techo.html",
+    "in_stock": true
+  },
+  {
+    "name": "Malla mosquitera fibra vidrio 1,20 m (precio por metro)",
+    "price": 3.95,
+    "sku": "VE-3050119",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/6/8/6868cf5e-2be0-4038-9e24-ad8d902ac141.jpg",
+    "product_url": "https://ve.epaenlinea.com/masq-fibra-vid-1-20.html",
+    "in_stock": true
+  },
+  {
+    "name": "Mastique para drywall Magic Gypsum de ¼ gal",
+    "price": 4.1,
+    "sku": "VE-3020051",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/c/f/cfe93b48-8254-4fee-baad-27178b6ab486.jpg",
+    "product_url": "https://ve.epaenlinea.com/mastique-para-drywall-magic-gypsum-de-gal.html",
+    "in_stock": true
+  },
+  {
+    "name": "Reborde plástico 3/8\" x 10 pies",
+    "price": 4.2,
+    "sku": "VE-3020059",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/4/7/47479c3b-d7e5-4ffe-9ce6-73753a1a86a6.jpg",
+    "product_url": "https://ve.epaenlinea.com/reborde-plastico-3-8x10.html",
+    "in_stock": true
+  },
+  {
+    "name": "Zuncho rectangular 12 cm x 15 cm 3.9 mm",
+    "price": 4.35,
+    "sku": "VE-3010011",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/8/3/837539cd-8044-4942-b33c-2c65aae68445.jpg",
+    "product_url": "https://ve.epaenlinea.com/zuncho-rectangular-12-cm-x-15-cm-3-9-mm.html",
+    "in_stock": true
+  },
+  {
+    "name": "Reborde plástico ½\"",
+    "price": 4.46,
+    "sku": "VE-3020112",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/6/e/6e3af098-8554-4a71-bf41-28b0f7471746.jpg",
+    "product_url": "https://ve.epaenlinea.com/reborde-1-2.html",
+    "in_stock": true
+  },
+  {
+    "name": "Pegamento para cerámicas y baldosas PegUtil standard gris 10 kg",
+    "price": 4.5,
+    "sku": "VE-3026037",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/d/1/d1678c4a-ded5-4ab9-a3a5-c55f94c0541b.jpg",
+    "product_url": "https://ve.epaenlinea.com/pegamento-para-ceramicas-y-baldosas-pegutil-standard-gris-10-kg.html",
+    "in_stock": true
+  },
+  {
+    "name": "Malla Raschel 80% 4,2 m verde/negra",
+    "price": 4.5,
+    "sku": "VE-3052049",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/7/3/73c50ab1-2c50-46a4-be03-01ee77a4aa4a.jpg",
+    "product_url": "https://ve.epaenlinea.com/malla-raschel-80-4-2-alto-verde-negra.html",
+    "in_stock": true
+  },
+  {
+    "name": "Malla Raschel 80% 4,2 m negra",
+    "price": 4.5,
+    "sku": "VE-3052048",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/5/d/5d142d07-8339-4b97-9283-d94d49df0182.jpg",
+    "product_url": "https://ve.epaenlinea.com/malla-raschel-80-4-2m-alto-negra.html",
+    "in_stock": true
+  },
+  {
+    "name": "Malla pajarera ¾\" 1,5 m  (precio por metro)",
+    "price": 4.54,
+    "sku": "VE-3050105",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/7/a/7a34f85d-34b3-4721-bb72-c3ffc2901aaa.jpg",
+    "product_url": "https://ve.epaenlinea.com/malla-pajarera-3-4-de-1-5-m-x-25-m-por-metro.html",
+    "in_stock": true
+  },
+  {
+    "name": "Zuncho cuadrado 15 x 15 cm 3,9 mm",
+    "price": 4.8,
+    "sku": "VE-3010009",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/4/e/4ed706c0-4a31-4c84-b19b-15d2b4c99e66.jpg",
+    "product_url": "https://ve.epaenlinea.com/zuncho-15x15-3-9mm.html",
+    "in_stock": true
+  },
+  {
+    "name": "Malla gallinero 2\" 1,65 m (precio por metro)",
+    "price": 4.95,
+    "sku": "VE-3052021",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/7/f/7f1c1537-a12d-47c9-96f8-7fbc4b482c50.jpg",
+    "product_url": "https://ve.epaenlinea.com/malla-gallinero-2-de-1-65-m-x-30-m-precio-por-metro.html",
+    "in_stock": true
+  },
+  {
+    "name": "Ángulo esquinero comercial galvanizado 3 x 3 x 1,4 cm soporta hasta 5 kg 4 uds",
+    "price": 5.22,
+    "sku": "VE-1826180",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/4/d/4dcfc470-ad31-433f-931e-b65d0e37c300.jpg",
+    "product_url": "https://ve.epaenlinea.com/angulo-esquinero-comercial-galvanizado-3-x-3-x-1-4-cm-soporta-hasta-5-kg-4-uds.html",
+    "in_stock": true
+  },
+  {
+    "name": "Cal líquida 7,5 kg",
+    "price": 5.27,
+    "sku": "VE-3025012",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/0/7/07d649ca-3ab7-4754-b542-b0ce00a1d6d5.jpg",
+    "product_url": "https://ve.epaenlinea.com/cal-liquida-7-5-kg.html",
+    "in_stock": true
+  },
+  {
+    "name": "Malla sombra 80% verde 1,22 m (precio por metro)",
+    "price": 5.3,
+    "sku": "VE-3052013",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/5/8/58667884-23d1-48d2-80b2-8364da24d347.jpg",
+    "product_url": "https://ve.epaenlinea.com/malla-sombra-80-verde-1-22-m-de-ancho-precio-por-metro.html",
+    "in_stock": true
+  },
+  {
+    "name": "Cal en polvo saco 8 kg",
+    "price": 5.55,
+    "sku": "VE-3025002",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/d/2/d2086ead-2717-4d6e-8481-fcabc950c5c3.jpg",
+    "product_url": "https://ve.epaenlinea.com/cal-en-polvo-saco-8kg.html",
+    "in_stock": true
+  },
+  {
+    "name": "Riel acero galvanizado 1 5/8\" x 3,05 m",
+    "price": 5.55,
+    "sku": "VE-3020100",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/2/f/2f377ece-676c-46be-bf40-0e7f35f40403.jpg",
+    "product_url": "https://ve.epaenlinea.com/riel-1-5-8-x-3-05-m-acero-galvanizado.html",
+    "in_stock": true
+  },
+  {
+    "name": "Malla gallinero 2\" 1,65 x 25 m (precio por metro)",
+    "price": 5.65,
+    "sku": "VE-3050084",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/b/7/b797b6e9-8952-4659-b2d2-b37ff4a8793c.jpg",
+    "product_url": "https://ve.epaenlinea.com/malla-gallinero-2-de-1-65-m-x-25-m-por-metro.html",
+    "in_stock": true
+  },
+  {
+    "name": "Zuncho rectangular 12 x 15 cm 5,2 mm",
+    "price": 5.66,
+    "sku": "VE-3010012",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/3/a/3a2c2629-be5f-4be1-a3bb-be3cb4a1af94.jpg",
+    "product_url": "https://ve.epaenlinea.com/rect-12x15cm-5-2-mm.html",
+    "in_stock": true
+  },
+  {
+    "name": "Malla pajarera ½\" 1,5 m (precio por metro)",
+    "price": 5.9,
+    "sku": "VE-3050104",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/7/f/7ff72497-d993-4a99-9151-3f4a4df0fc76.jpg",
+    "product_url": "https://ve.epaenlinea.com/malla-pajarera-1-2-de-1-50-m-x-25-m-por-metro.html",
+    "in_stock": true
+  },
+  {
+    "name": "Moldura de poliestireno A40 2 m",
+    "price": 5.93,
+    "sku": "VE-2023011",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/2/7/2783fb0f-d5eb-4af5-a1ee-4c0feb8c6c04.jpg",
+    "product_url": "https://ve.epaenlinea.com/poliestireno-a40.html",
+    "in_stock": true
+  },
+  {
+    "name": "Pegamento para cerámicas y baldosas PegUtil standard gris 14 kg",
+    "price": 5.94,
+    "sku": "VE-3026010",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/d/0/d0893a3a-8cc6-4b3c-b184-1b98c727e905.jpg",
+    "product_url": "https://ve.epaenlinea.com/pego-gris-14kg-util.html",
+    "in_stock": true
+  },
+  {
+    "name": "Moldura de poliestireno F35 2 m",
+    "price": 6.14,
+    "sku": "VE-2023005",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/3/5/35588eb6-2f6c-4d5e-99c6-f682b5ac100d.jpg",
+    "product_url": "https://ve.epaenlinea.com/moldura-de-poliestireno-f35-2mtr.html",
+    "in_stock": true
+  },
+  {
+    "name": "Pegamento para cerámicas y baldosas PegUtil standard blanco 10 kg",
+    "price": 6.15,
+    "sku": "VE-3026043",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/c/2/c2e90ad1-c093-4c5f-89e1-ca72658fb23b.jpg",
+    "product_url": "https://ve.epaenlinea.com/pego-blanco-util-10-kg.html",
+    "in_stock": true
+  },
+  {
+    "name": "Cinta de papel para sellar uniones 79 m",
+    "price": 6.2,
+    "sku": "VE-3020011",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/8/a/8ae3bf91-7f17-4b85-b724-f0015e873842.jpg",
+    "product_url": "https://ve.epaenlinea.com/cinta-de-papel-para-sellar-uniones-79-m.html",
+    "in_stock": true
+  },
+  {
+    "name": "Mortero para encamisado Stucutil 10 kg",
+    "price": 6.33,
+    "sku": "VE-3026084",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/4/1/41d4495f-d02c-42a2-b126-bcf331825894.jpg",
+    "product_url": "https://ve.epaenlinea.com/mortero-para-encamisado-stucutil-10-kg.html",
+    "in_stock": true
+  },
+  {
+    "name": "Perfil omega acero galvanizado 3,05 m calibre 26",
+    "price": 6.44,
+    "sku": "VE-3020102",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/a/9/a9dde8ba-5349-40de-8a26-9f92d4f871ac.jpg",
+    "product_url": "https://ve.epaenlinea.com/perfil-omega-3-05-m-calibre-26.html",
+    "in_stock": true
+  },
+  {
+    "name": "Polietileno plástico negro 200 micra (3 m ancho)",
+    "price": 6.5,
+    "sku": "VE-1830137",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/a/3/a3e1604b-fd2f-4e33-8971-3164a6115833.jpg",
+    "product_url": "https://ve.epaenlinea.com/polietileno-tubular-negro-200-micra-3m-ancho-plastico-negro.html",
+    "in_stock": true
+  },
+  {
+    "name": "Plástico transparente 2,4 m ancho",
+    "price": 6.5,
+    "sku": "VE-1830165",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/a/1/a1c5da06-1c29-4246-b9b9-4206eebf97e3.jpg",
+    "product_url": "https://ve.epaenlinea.com/plastico-transparente-2-4-mts-ancho.html",
+    "in_stock": true
+  },
+  {
+    "name": "Moldura de poliestireno I40 2 m",
+    "price": 6.59,
+    "sku": "VE-2023009",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/9/5/955aa89a-7f6e-486f-8cad-be6076abaeb1.jpg",
+    "product_url": "https://ve.epaenlinea.com/moldura-poliestireno-i40-de-2m.html",
+    "in_stock": true
+  },
+  {
+    "name": "Cinta fibra de vidrio 90 m",
+    "price": 6.65,
+    "sku": "VE-3020058",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/8/7/87e4a90f-f40a-4afc-b90b-c7a0e73eac35.jpg",
+    "product_url": "https://ve.epaenlinea.com/cinta-fibra-90m.html",
+    "in_stock": true
+  },
+  {
+    "name": "Malla cedazo 6x6 (1/16\") (precio por metro)",
+    "price": 6.82,
+    "sku": "VE-3050049",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/2/6/26c78882-8176-49fc-b8a9-6b78fc08c997.jpg",
+    "product_url": "https://ve.epaenlinea.com/malla-cedazo-6x6.html",
+    "in_stock": true
+  },
+  {
+    "name": "Riel para drywall 2½\" x 3,05 m calibre 26",
+    "price": 7.0,
+    "sku": "VE-3020106",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/c/b/cbebc63d-22ac-4fa8-86c0-c93b5c3eb234.jpg",
+    "product_url": "https://ve.epaenlinea.com/riel-para-drywall-2-1-2-x-3-05-m-calibre-26.html",
+    "in_stock": true
+  },
+  {
+    "name": "Paral acero galvanizado 1 5/8\" x 3,05 m",
+    "price": 7.16,
+    "sku": "VE-3020101",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/9/2/92542be5-f2fb-492a-89d7-06d5b8171e74.jpg",
+    "product_url": "https://ve.epaenlinea.com/paral-1-5-8-x-3-05-m-acero-galvanizado.html",
+    "in_stock": true
+  },
+  {
+    "name": "Moldura de poliestireno A50 2 m",
+    "price": 7.25,
+    "sku": "VE-2023007",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/8/7/87c10791-f65d-4ebe-b6bb-d3d9ab054690.jpg",
+    "product_url": "https://ve.epaenlinea.com/moldura-a50-de-2-m.html",
+    "in_stock": true
+  },
+  {
+    "name": "Perfil principal blanco 3,66 m",
+    "price": 7.25,
+    "sku": "VE-3015002",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/9/f/9f5ac31c-1d1f-4209-a0e9-a45f18e64bee.jpg",
+    "product_url": "https://ve.epaenlinea.com/perfil-principal-blanco-3-66m.html",
+    "in_stock": true
+  },
+  {
+    "name": "Pasta para pegar bloque 20 kg",
+    "price": 7.25,
+    "sku": "VE-3026072",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/9/1/91ca9e84-d5fa-480c-9eb8-512c4a7270d9.jpg",
+    "product_url": "https://ve.epaenlinea.com/pasta-para-pegar-bloque-de-20-kg.html",
+    "in_stock": true
+  },
+  {
+    "name": "Malla cedazo 8x8 (1/8\") (precio por metro)",
+    "price": 7.4,
+    "sku": "VE-3050050",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/f/d/fd290030-ca0e-4e11-9127-5cda15c32d5b.jpg",
+    "product_url": "https://ve.epaenlinea.com/malla-cedazo-8-x-8.html",
+    "in_stock": true
+  },
+  {
+    "name": "Malla cedazo 3\" x 3\" 1,45 m negra (precio por metro)",
+    "price": 7.4,
+    "sku": "VE-3052037",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/c/0/c0b4e199-3fd7-4cc5-90dd-f0bcb9577918.jpg",
+    "product_url": "https://ve.epaenlinea.com/malla-cedazo-3x3-1-45-mts-alto-color-negro.html",
+    "in_stock": true
+  },
+  {
+    "name": "Pasta para friso 20 kg",
+    "price": 7.45,
+    "sku": "VE-3026065",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/7/b/7b7d9d66-70b9-467d-aeb3-645ffff9f34d.jpg",
+    "product_url": "https://ve.epaenlinea.com/pasta-para-friso-20-kg.html",
+    "in_stock": true
+  },
+  {
+    "name": "Malla mosquitera aluminio 0,90 m (precio por metro)",
+    "price": 7.84,
+    "sku": "VE-3052039",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/4/1/4152cfa1-20d4-4805-a9b7-6611b20e31de.jpg",
+    "product_url": "https://ve.epaenlinea.com/malla-para-mosquitero-de-aluminio-0-90m-de-ancho-25-metros-d.html",
+    "in_stock": true
+  },
+  {
+    "name": "Moldura de poliestireno F40 2 m",
+    "price": 7.91,
+    "sku": "VE-2023003",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/9/d/9da0451f-aba7-4829-bff6-7f015992fa51.jpg",
+    "product_url": "https://ve.epaenlinea.com/moldura-de-poliestireno-f40-2mtr.html",
+    "in_stock": true
+  },
+  {
+    "name": "Amarre para techo de zinc 50 uds",
+    "price": 8.01,
+    "sku": "VE-3018029",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/2/7/27d35a8e-a78c-40e3-99c3-e8d88b6db146.jpg",
+    "product_url": "https://ve.epaenlinea.com/amarre-para-techo-de-zinc-paquete-de-50-unidades.html",
+    "in_stock": true
+  },
+  {
+    "name": "Premezcla de concreto Instalkreto 20 kg",
+    "price": 8.1,
+    "sku": "VE-3026074",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/7/8/78b363eb-a318-4e0e-8847-4a05b2635eed.jpg",
+    "product_url": "https://ve.epaenlinea.com/instalkreto-20-kilos.html",
+    "in_stock": true
+  },
+  {
+    "name": "Paral para drywall 2½\" x 3,05 m calibre 27",
+    "price": 8.23,
+    "sku": "VE-3020108",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/6/d/6d2b47b0-bdf8-4357-9e88-eccdef81d204.jpg",
+    "product_url": "https://ve.epaenlinea.com/paral-para-drywall-2-1-2-x-3-05-m-calibre-27.html",
+    "in_stock": true
+  },
+  {
+    "name": "Gancho largo 2\" x 1\"",
+    "price": 8.25,
+    "sku": "VE-3018022",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/7/f/7ff03b71-ca36-45cb-a110-a60ebfa82c5c.jpg",
+    "product_url": "https://ve.epaenlinea.com/gancho-largo-2-x-1.html",
+    "in_stock": true
+  },
+  {
+    "name": "Gancho corto 2\" x 1\"",
+    "price": 8.25,
+    "sku": "VE-3018021",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/8/b/8bf4a900-8bef-4d4e-9fe2-3363bea050a3.jpg",
+    "product_url": "https://ve.epaenlinea.com/gancho-2-x-1-corto.html",
+    "in_stock": true
+  },
+  {
+    "name": "Mastique para tabiquería 2T 1 gal",
+    "price": 8.3,
+    "sku": "VE-3020054",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/1/4/14190647-280c-4ec2-9ce6-47b2083217d7.jpg",
+    "product_url": "https://ve.epaenlinea.com/mastique-para-tabiqueria-2t-1-galon.html",
+    "in_stock": true
+  },
+  {
+    "name": "Barra estriada galvanizada redonda 10 mm x 6 m",
+    "price": 8.65,
+    "sku": "VE-3007230",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/5/8/58719863-997e-4e02-b167-493c1ce5fa3c.jpg",
+    "product_url": "https://ve.epaenlinea.com/barra-estriada-galvanizada-redonda-10-mm-x-6-m.html",
+    "in_stock": true
+  },
+  {
+    "name": "Gancho largo 2\" x 2\"",
+    "price": 8.67,
+    "sku": "VE-3018028",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/d/a/da7b3890-c906-4a34-94f3-a21149d6f4e0.jpg",
+    "product_url": "https://ve.epaenlinea.com/gancho-2-x-2-tipo-largo.html",
+    "in_stock": true
+  },
+  {
+    "name": "Yeso en polvo 5 kg",
+    "price": 8.75,
+    "sku": "VE-3025010",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/1/9/19e7e91e-4880-4fda-85d1-8c62cd2dab31.jpg",
+    "product_url": "https://ve.epaenlinea.com/yeso-en-polvo-5-kg.html",
+    "in_stock": true
+  },
+  {
+    "name": "Moldura de poliestireno S50 2 m",
+    "price": 8.79,
+    "sku": "VE-2023013",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/5/7/576820c1-533f-4aaf-9bcd-4bdc4672f0be.jpg",
+    "product_url": "https://ve.epaenlinea.com/moldura-de-poliestireno-s50-2-m.html",
+    "in_stock": true
+  },
+  {
+    "name": "Pletina de acero 1\" x 1/8\" x 6 m",
+    "price": 9.27,
+    "sku": "VE-3009000",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/c/9/c93982ae-df79-4c03-82e0-861c423a1385.jpg",
+    "product_url": "https://ve.epaenlinea.com/pletina-de-acero-1-x-1-8-x-6-m.html",
+    "in_stock": true
+  },
+  {
+    "name": "Pegamento para cerámicas y baldosas PegUtil standard blanco 14 kg",
+    "price": 9.3,
+    "sku": "VE-3026011",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/e/6/e66bb941-666a-451c-8571-25b74f8d33b8.jpg",
+    "product_url": "https://ve.epaenlinea.com/pego-blanco-14kg-util.html",
+    "in_stock": true
+  },
+  {
+    "name": "Tubo estrúctural cuadrado galvanizado 1 \" x 6 m",
+    "price": 9.5,
+    "sku": "VE-3004120",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/8/5/85678f26-187b-4f36-9510-2da1fb5a0e32.jpg",
+    "product_url": "https://ve.epaenlinea.com/tubo-estructural-cuadrado-galvanizado-1-x-6-m.html",
+    "in_stock": true
+  },
+  {
+    "name": "Estuco 1A 10 kg",
+    "price": 9.55,
+    "sku": "VE-3026073",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/0/4/045b8f2b-26d7-4731-9799-239f81f4f813.jpg",
+    "product_url": "https://ve.epaenlinea.com/estuco-1a-de-10-kg.html",
+    "in_stock": true
+  },
+  {
+    "name": "Malla mosquitera aluminio 1,2 m (precio por metro)",
+    "price": 9.62,
+    "sku": "VE-3048026",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/f/8/f804e05c-aa29-412a-9d71-a78af4892bb0.jpg",
+    "product_url": "https://ve.epaenlinea.com/malla-mosquitero-aluminio-1-20m-precio-de-venta-por-metro.html",
+    "in_stock": true
+  },
+  {
+    "name": "Moldura de poliestireno D50 2 m",
+    "price": 9.67,
+    "sku": "VE-2023006",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/1/8/182cceff-7479-4c29-8b7f-7d73fb821045.jpg",
+    "product_url": "https://ve.epaenlinea.com/moldura-de-poliestireno-d50-2-mtr.html",
+    "in_stock": true
+  },
+  {
+    "name": "Lámina ondulada zinc 2 mm 83 x 305 cm",
+    "price": 9.7,
+    "sku": "VE-3018018",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/c/8/c8145e7e-068d-409d-9677-fd8100361087.jpg",
+    "product_url": "https://ve.epaenlinea.com/lamina-ondulada-zinc-0-2x830x3050.html",
+    "in_stock": true
+  },
+  {
+    "name": "Tubo cuadrado HP 1\" x 1\" 0,9 mm 6m",
+    "price": 10.3,
+    "sku": "VE-3004104",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/9/1/911dfb13-0945-4c09-8bb1-bf799fc0c0fe.jpg",
+    "product_url": "https://ve.epaenlinea.com/tubo-cuadrado-hp-1x1pulg-x0-9mm-x6m.html",
+    "in_stock": true
+  },
+  {
+    "name": "Ángulo esquinero comercial galvanizado 5 x 5 x 1,9 cm soporta hasta 7 kg 4 uds",
+    "price": 10.4,
+    "sku": "VE-1826181",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/5/f/5f300fba-14ac-4994-b26b-83ae004c83af.jpg",
+    "product_url": "https://ve.epaenlinea.com/angulo-esquinero-comercial-galvanizado-5-x-5-x-1-9-cm-soporta-hasta-7-kg-4-uds.html",
+    "in_stock": true
+  },
+  {
+    "name": "Lámina de zinc ondulada 0,80 x 3,6 m plateada",
+    "price": 10.55,
+    "sku": "VE-3018036",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/8/b/8bb0e69f-a10f-4389-989d-8106be6bc799.jpg",
+    "product_url": "https://ve.epaenlinea.com/lamina-de-zinc-ondulada-0-80-x-3-6-m-plateada.html",
+    "in_stock": true
+  },
+  {
+    "name": "Aditivo líquido impermeabilizante Sika 1 kg",
+    "price": 10.6,
+    "sku": "VE-3038007",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/c/d/cd33d4da-3394-4172-8407-d55a21f8154b.jpg",
+    "product_url": "https://ve.epaenlinea.com/aditivo-liquido-impermeabilizante-para-frisos-y-morteros-pr.html",
+    "in_stock": true
+  },
+  {
+    "name": "Moldura de poliestireno ST45 2 m",
+    "price": 10.7,
+    "sku": "VE-2023016",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/8/7/87fba276-d3f5-48f3-88c3-d44738a67bda.jpg",
+    "product_url": "https://ve.epaenlinea.com/moldura-de-poliestireno.html",
+    "in_stock": true
+  },
+  {
+    "name": "Óxido de hierro oxiforte verde 1kg",
+    "price": 10.8,
+    "sku": "VE-3090027",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/5/f/5f6a0321-a885-4eae-89b0-2e83aaa1f5f2.jpg",
+    "product_url": "https://ve.epaenlinea.com/oxido-de-hierro-oxiforte-verde-1kg.html",
+    "in_stock": true
+  },
+  {
+    "name": "Mastique Magic Gypsum 1 gal",
+    "price": 10.8,
+    "sku": "VE-3020016",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/1/9/19183eda-c462-4fff-80e3-5eeeea5b8855.jpg",
+    "product_url": "https://ve.epaenlinea.com/mastique-magic-gypsum-galon.html",
+    "in_stock": true
+  },
+  {
+    "name": "óxido de hierro OxiForte rojo 1 kg",
+    "price": 10.8,
+    "sku": "VE-3090031",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/0/2/020362d9-2f53-4b1e-95ea-d6c2656af2da.jpg",
+    "product_url": "https://ve.epaenlinea.com/oxido-de-hierro-oxaforte-rojo-de-1-kg.html",
+    "in_stock": true
+  },
+  {
+    "name": "Óxido de hierro oxiforte marrón 1kg",
+    "price": 10.8,
+    "sku": "VE-3090029",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/1/d/1d64402d-075c-40d5-834f-c0abc923ca1c.jpg",
+    "product_url": "https://ve.epaenlinea.com/oxido-de-hierro-oxiforte-marron-1kg.html",
+    "in_stock": true
+  },
+  {
+    "name": "Estucutil extra blanco 10 kg",
+    "price": 10.9,
+    "sku": "VE-3026113",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/7/9/79b5aaf9-4c42-477f-9bd9-337151bbe304.jpg",
+    "product_url": "https://ve.epaenlinea.com/estucutil-extra-blanco-10kg.html",
+    "in_stock": true
+  },
+  {
+    "name": "Cemento plástico ¼ gal",
+    "price": 11.0,
+    "sku": "VE-3037253",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/c/6/c6e8df72-9d9b-4a6b-95ce-b1bed543f4a7.jpg",
+    "product_url": "https://ve.epaenlinea.com/cemento-plastico-gal.html",
+    "in_stock": true
+  },
+  {
+    "name": "Ángulo hierro negro 20 x 20 x 3 mm 6 m",
+    "price": 11.15,
+    "sku": "VE-3014015",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/a/c/ac2c2742-1631-4e82-94cb-322a1b00534a.jpg",
+    "product_url": "https://ve.epaenlinea.com/angulo-hierro-negro-20-x-20-x-3-mm-6-m.html",
+    "in_stock": true
+  },
+  {
+    "name": "Barra redonda lisa 12 mm 6 m",
+    "price": 11.6,
+    "sku": "VE-3008000",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/6/8/6805c456-74d1-46ab-bb9d-f02564dc95a6.jpg",
+    "product_url": "https://ve.epaenlinea.com/barra-red-lisa-12x6.html",
+    "in_stock": true
+  },
+  {
+    "name": "Solución cementosa Mezclutil 21 kg",
+    "price": 11.75,
+    "sku": "VE-3026083",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/c/d/cd4e3f99-61e9-4f65-b173-03ae6638e958.jpg",
+    "product_url": "https://ve.epaenlinea.com/solucion-cementosa-21-kg.html",
+    "in_stock": true
+  },
+  {
+    "name": "Platina pvc premium gris",
+    "price": 11.9,
+    "sku": "VE-2216033",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/0/f/0fd62530-4519-48fb-9389-3051110d36a5.jpg",
+    "product_url": "https://ve.epaenlinea.com/platina-pvc-premium-color-gris.html",
+    "in_stock": true
+  },
+  {
+    "name": "Película plástico Stretch (1 kg)",
+    "price": 11.9,
+    "sku": "VE-1830090",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/c/e/cee77922-8726-4d65-9ac0-0001726f7c6c.jpg",
+    "product_url": "https://ve.epaenlinea.com/pelicula-plastico-stretch-1-kg.html",
+    "in_stock": true
+  },
+  {
+    "name": "Cercha de 10 x 6 m",
+    "price": 12.05,
+    "sku": "VE-3010017",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/f/4/f4ddde11-bc56-4e06-8298-664306672739.jpg",
+    "product_url": "https://ve.epaenlinea.com/cercha-de-10-x-6-m.html",
+    "in_stock": true
+  },
+  {
+    "name": "Polvo de mármol 10 kg",
+    "price": 12.15,
+    "sku": "VE-3028044",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/e/c/ecb510ae-a8b6-4e8f-826b-758fed80d5b4.jpg",
+    "product_url": "https://ve.epaenlinea.com/polvo-de-marmol-10-kg.html",
+    "in_stock": true
+  },
+  {
+    "name": "Protector burbujas de polietileno rectangular transparente 30 cm x 3 m 1 pieza",
+    "price": 12.4,
+    "sku": "VE-1830212",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/4/2/4265472a-dda5-4edb-9364-0cb97ae41ef2.jpg",
+    "product_url": "https://ve.epaenlinea.com/protector-burbujas-de-polietileno-rectangular-transparente-30-cm-x-3-m-1-pieza.html",
+    "in_stock": true
+  },
+  {
+    "name": "Cabilla estriada redonda S60 12 mm x 6 m",
+    "price": 12.5,
+    "sku": "VE-3007006",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/d/7/d7536735-396f-4f55-8ccb-1a84ad0b9e7f.jpg",
+    "product_url": "https://ve.epaenlinea.com/cabilla-estriada-redonda-s60-12-mm-x-6-m.html",
+    "in_stock": true
+  },
+  {
+    "name": "Moldura MDF tapaluz roble argento",
+    "price": 12.71,
+    "sku": "VE-2024057",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/1/0/10a44f5d-0571-40a0-89ac-7998623ec83b.jpg",
+    "product_url": "https://ve.epaenlinea.com/moldura-tapa-luz-roble-argento-mdf-recubierta-modelo-d09.html",
+    "in_stock": true
+  },
+  {
+    "name": "Moldura MDF tapaluz nogal recubierto",
+    "price": 12.71,
+    "sku": "VE-2024061",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/a/a/aa4b62d4-58c7-44cd-bae1-7fdd8fa4a401.jpg",
+    "product_url": "https://ve.epaenlinea.com/moldura-tapaluz-nogal-mdf-recubierto.html",
+    "in_stock": true
+  },
+  {
+    "name": "Moldura MDF tapaluz D12 roble 2,40 m",
+    "price": 12.71,
+    "sku": "VE-2024059",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/6/8/682574b7-39ca-4376-b885-9ed003410699.jpg",
+    "product_url": "https://ve.epaenlinea.com/moldura-mdf-tapaluz-modelo-d12-color-roble-2-40mtr.html",
+    "in_stock": true
+  },
+  {
+    "name": "Moldura MDF plana cacao 2,30 m",
+    "price": 12.71,
+    "sku": "VE-2024043",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/5/1/5161f918-0570-4174-81bc-713a7bea77fd.jpg",
+    "product_url": "https://ve.epaenlinea.com/moldura-plana-color-cacao-de-2-30m.html",
+    "in_stock": true
+  },
+  {
+    "name": "Moldura MDF tapaluz D11 gris",
+    "price": 12.71,
+    "sku": "VE-2024058",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/a/1/a159cdf1-e2d7-471c-a79f-de91133a1704.jpg",
+    "product_url": "https://ve.epaenlinea.com/moldura-mdf-tatpaluz-modelo-d11-color-gris.html",
+    "in_stock": true
+  },
+  {
+    "name": "Rodapié MDF roble moro 2,40 m",
+    "price": 12.71,
+    "sku": "VE-2024012",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/a/9/a9e7769f-0c19-482a-9274-155d98753dc7.jpg",
+    "product_url": "https://ve.epaenlinea.com/rodapie-mdf-modelo-etpld-color-roble-moro-2-40mtr.html",
+    "in_stock": true
+  },
+  {
+    "name": "Moldura MDF tapaluz D13 roble inglés 2,40 m",
+    "price": 12.71,
+    "sku": "VE-2024060",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/b/b/bbaca91d-a5a4-462e-8c93-6a660cece886.jpg",
+    "product_url": "https://ve.epaenlinea.com/moldura-mdf-tapaluz-modelo-d13-color-roble-ingles-2-40mtr.html",
+    "in_stock": true
+  },
+  {
+    "name": "Moldura de poliestireno F70 2 m",
+    "price": 12.75,
+    "sku": "VE-2023002",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/f/a/fa042593-5b89-4978-b8d8-2d31a840174d.jpg",
+    "product_url": "https://ve.epaenlinea.com/moldura-de-poliestireno-f70-2mtr.html",
+    "in_stock": true
+  },
+  {
+    "name": "Lámina yeso concha naranja 120 x 60 cm",
+    "price": 12.8,
+    "sku": "VE-3015037",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/c/d/cd6e1300-58a2-480a-90fb-c2413bb55635.jpg",
+    "product_url": "https://ve.epaenlinea.com/lamina-yeso-c-naranj.html",
+    "in_stock": true
+  },
+  {
+    "name": "Gravilla roja #3 10 kg",
+    "price": 12.85,
+    "sku": "VE-3028040",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/2/d/2dd0d440-e3e4-4b46-b168-93e4d124f917.jpg",
+    "product_url": "https://ve.epaenlinea.com/gravilla-roja-3-10-kg.html",
+    "in_stock": true
+  },
+  {
+    "name": "Ángulo esquinero comercial galvanizado 8 x 8 x 1,9 cm soporta hasta 10 kg 4 uds",
+    "price": 13.05,
+    "sku": "VE-1826183",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/d/6/d6d6c4dc-d45f-4cf4-95a2-9d6072174cc6.jpg",
+    "product_url": "https://ve.epaenlinea.com/angulo-esquinero-comercial-galvanizado-8-x-8-x-1-9-cm-soporta-hasta-10-kg-4-uds.html",
+    "in_stock": true
+  },
+  {
+    "name": "Gravilla roja #2 10 kg",
+    "price": 13.05,
+    "sku": "VE-3028039",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/c/c/cccd1564-0f77-4b4f-a6b1-3fa23bf3a8ef.jpg",
+    "product_url": "https://ve.epaenlinea.com/gravilla-roja-2-10-kg.html",
+    "in_stock": true
+  },
+  {
+    "name": "Gravilla blanca #3 10 kg",
+    "price": 13.1,
+    "sku": "VE-3028042",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/b/e/be53c4a0-d2d8-44d3-a8fc-fed66a4bca19.jpg",
+    "product_url": "https://ve.epaenlinea.com/gravilla-blanca-3-10-kg.html",
+    "in_stock": true
+  },
+  {
+    "name": "Malla esquinero galvanizada 5 x 5 cm 2,44 m",
+    "price": 13.1,
+    "sku": "VE-3050117",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/1/7/17f4c296-a7f5-490d-bbfd-a7402d0f5d8f.jpg",
+    "product_url": "https://ve.epaenlinea.com/malla-esquinero-galvanizada-5x5cm-x2-44m.html",
+    "in_stock": true
+  },
+  {
+    "name": "Granito blanco y gris #2 10 kg",
+    "price": 13.3,
+    "sku": "VE-3028043",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/3/a/3a3bac8d-2a12-4204-a168-7c93b5410e1d.jpg",
+    "product_url": "https://ve.epaenlinea.com/granito-blanco-y-gris-2-10-kg.html",
+    "in_stock": true
+  },
+  {
+    "name": "Ángulo hierro negro 25 x 25 x 3 mm 6 m",
+    "price": 13.75,
+    "sku": "VE-3014014",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/7/8/78f6b33f-e636-4c03-b581-a95e1e5f23fc.jpg",
+    "product_url": "https://ve.epaenlinea.com/angulo-hn-3x25x25x6.html",
+    "in_stock": true
+  },
+  {
+    "name": "Gravilla blanca #2 10 kg",
+    "price": 13.85,
+    "sku": "VE-3028041",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/b/4/b457766b-1ef7-475a-ba58-de2f20dcb738.jpg",
+    "product_url": "https://ve.epaenlinea.com/gravilla-blanca-2-10-kg.html",
+    "in_stock": true
+  },
+  {
+    "name": "Platina aluminio plata pulido para cerámica",
+    "price": 13.9,
+    "sku": "VE-2216031",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/a/a/aa94e2bd-b35f-4bd7-9bcf-fd941fdbbcc1.jpg",
+    "product_url": "https://ve.epaenlinea.com/celosias-col-platina-aluminio-imp-plata-pulido-para-ceramic.html",
+    "in_stock": true
+  },
+  {
+    "name": "Perfil aluminio rectangular plata mate 1 cm x 2,4 m",
+    "price": 13.9,
+    "sku": "VE-2216035",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/e/7/e79eaeec-bd35-4a89-9a79-2616f811dab9.jpg",
+    "product_url": "https://ve.epaenlinea.com/perfil-aluminio-rectangular-plata-mate-1-cm-x-2-4-m.html",
+    "in_stock": true
+  },
+  {
+    "name": "Cercha de 15 x 6 m",
+    "price": 14.0,
+    "sku": "VE-3010018",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/5/f/5fd93612-d696-4577-9a6a-1d471f9f9aec.jpg",
+    "product_url": "https://ve.epaenlinea.com/cercha-de-15-x-6-m.html",
+    "in_stock": true
+  },
+  {
+    "name": "Cemento blanco 8 kg 4SA",
+    "price": 14.5,
+    "sku": "VE-3027028",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/c/0/c0e3ab49-adbb-4c9e-b179-0701d226713b.jpg",
+    "product_url": "https://ve.epaenlinea.com/cemento-blanco-8-kg-4sa.html",
+    "in_stock": true
+  },
+  {
+    "name": "Barra cuadrada lisa 12 mm 6 m",
+    "price": 14.95,
+    "sku": "VE-3008001",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/b/f/bf5172c5-01c2-468e-b5f1-26e7ba3182b9.jpg",
+    "product_url": "https://ve.epaenlinea.com/barra-maciza-cuadrada-lisa-12mm-x-6m-hierro-negro.html",
+    "in_stock": true
+  },
+  {
+    "name": "Multiseal cinta asfáltica tapagoteras Sika 10 cm x 5 m",
+    "price": 15.4,
+    "sku": "VE-3037078",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/e/1/e17682bd-6892-4e93-9632-d9b4fe6ed91f.jpg",
+    "product_url": "https://ve.epaenlinea.com/sika-multiseal-cinta-impermeabilizante-autoadhesiva-10cm-x-5.html",
+    "in_stock": true
+  },
+  {
+    "name": "Tubo rectangular HP 2\" x 1\" 0,9 mm 6 m",
+    "price": 15.55,
+    "sku": "VE-3004103",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/7/0/70148615-fbaf-4686-9711-2968ce877849.jpg",
+    "product_url": "https://ve.epaenlinea.com/tubo-rectangular-hp-2x1pulg-x0-9mm-x6m.html",
+    "in_stock": true
+  },
+  {
+    "name": "Tela poliéster broncoelástico Mapei 1 x 10 m",
+    "price": 16.3,
+    "sku": "VE-3038225",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/3/e/3e82f070-1745-4060-918c-16058f4111d8.jpg",
+    "product_url": "https://ve.epaenlinea.com/tela-poliester-broncoelastico-mapei-1x10m.html",
+    "in_stock": true
+  },
+  {
+    "name": "Malla Riplex 244 x 60 cm",
+    "price": 16.5,
+    "sku": "VE-3050059",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/4/9/49e86fc6-8caa-41c7-9d5e-4b71a7bfe3b6.jpg",
+    "product_url": "https://ve.epaenlinea.com/malla-riplex-de-60cm.html",
+    "in_stock": true
+  },
+  {
+    "name": "Solución cementosa blanca Blancutil 10 kg",
+    "price": 16.85,
+    "sku": "VE-3026091",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/a/a/aaaeedc9-e675-431e-ab44-36fb03a3e673.jpg",
+    "product_url": "https://ve.epaenlinea.com/solucion-cementosa-blanca-blancutil-10-kg.html",
+    "in_stock": true
+  },
+  {
+    "name": "Aditivo impermeabilizante multiuso Sikatop 80 1 kg",
+    "price": 18.0,
+    "sku": "VE-3038008",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/c/c/ccb05817-453d-442b-ac2e-2b01d3d10116.jpg",
+    "product_url": "https://ve.epaenlinea.com/sikatop-80-1-kg.html",
+    "in_stock": true
+  },
+  {
+    "name": "Stretch film polietileno cuadrado transparente 3 x 3 m 100 micras pza",
+    "price": 19.05,
+    "sku": "VE-1830209",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/1/a/1ae248ab-a323-4870-9b70-aeb073d7a348.jpg",
+    "product_url": "https://ve.epaenlinea.com/stretch-film-polietileno-cuadrado-transparente-3-x-3-m-100-micras-pza.html",
+    "in_stock": true
+  },
+  {
+    "name": "Asfalto líquido 1 gal",
+    "price": 19.4,
+    "sku": "VE-3037243",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/d/3/d38e4c50-ba0d-4568-acb9-e75ad40b7682.jpg",
+    "product_url": "https://ve.epaenlinea.com/asfalto-liquido-1gal.html",
+    "in_stock": true
+  },
+  {
+    "name": "Sellador protector de fachada 1 gal",
+    "price": 20.0,
+    "sku": "VE-3038128",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/3/5/3516e2be-7496-47cf-94e1-78a0c72b2dd7.jpg",
+    "product_url": "https://ve.epaenlinea.com/sellador-protector-de-fachada-galon.html",
+    "in_stock": true
+  },
+  {
+    "name": "Asfalto plástico 1 gal",
+    "price": 20.25,
+    "sku": "VE-3037257",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/0/f/0f456245-29f9-4151-bf43-57ffc6e91ea5.jpg",
+    "product_url": "https://ve.epaenlinea.com/asfalto-plastico-1-galon.html",
+    "in_stock": true
+  },
+  {
+    "name": "Stretch film polietileno cuadrado negro 3 x 3 m 200 micras pza",
+    "price": 20.85,
+    "sku": "VE-1830207",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/0/3/0399f4e8-b386-4fad-a68d-9b2c38e742cf.jpg",
+    "product_url": "https://ve.epaenlinea.com/stretch-film-polietileno-cuadrado-negro-3-x-3-m-200-micras-pza.html",
+    "in_stock": true
+  },
+  {
+    "name": "Primer Súper 1 gal",
+    "price": 20.9,
+    "sku": "VE-3037247",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/c/6/c642f1a0-8495-4816-b1f3-fc56e7f6b3b1.jpg",
+    "product_url": "https://ve.epaenlinea.com/primer-super-1gal.html",
+    "in_stock": true
+  },
+  {
+    "name": "Cemento plástico 1 gal",
+    "price": 22.1,
+    "sku": "VE-3037251",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/8/1/81deae69-4159-4c65-9194-77f832efffba.jpg",
+    "product_url": "https://ve.epaenlinea.com/cemento-plastico-1-gal.html",
+    "in_stock": true
+  },
+  {
+    "name": "Tubo rectangular HP 3\" x 1½\" 1,1 mm 6 m",
+    "price": 23.0,
+    "sku": "VE-3004100",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/c/e/ce174af2-dcda-4977-908f-f2dc8ecbcf94.jpg",
+    "product_url": "https://ve.epaenlinea.com/tubo-rectangular-hp-3x1-1-2pulg-x-1-1mm-x6m.html",
+    "in_stock": true
+  },
+  {
+    "name": "Pletina de acero 1 1/2\" x 3/16\" x 6 m",
+    "price": 23.45,
+    "sku": "VE-3009300",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/1/b/1bfc29c4-5e24-4a99-acbf-ae9234d655a7.jpg",
+    "product_url": "https://ve.epaenlinea.com/pletina-de-acero-1-1-2-x-3-16-x-6-m.html",
+    "in_stock": true
+  },
+  {
+    "name": "Pletina de acero 1\" x 3/16\" x 6 m",
+    "price": 23.45,
+    "sku": "VE-3009335",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/2/7/274e1f2a-8df2-488d-8ea1-9b6fd2adf711.jpg",
+    "product_url": "https://ve.epaenlinea.com/pletina-de-acero-1-x-3-16-x-6-m.html",
+    "in_stock": true
+  },
+  {
+    "name": "Pelicula plástico Stretch 50 cm (2 kg)",
+    "price": 23.5,
+    "sku": "VE-1830195",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/f/c/fc745412-e334-4ca2-886e-ad3dda84f0f4.jpg",
+    "product_url": "https://ve.epaenlinea.com/stretch-50cm-2kg.html",
+    "in_stock": true
+  },
+  {
+    "name": "Lámina de yeso 3/8\" 1,22 x 2,44 m",
+    "price": 23.9,
+    "sku": "VE-3020001",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/3/b/3b486163-6cf1-49c2-9605-f254758c7666.jpg",
+    "product_url": "https://ve.epaenlinea.com/lamina-de-yeso-3-8-1-22-m-x-2-44-m.html",
+    "in_stock": true
+  },
+  {
+    "name": "Impermeabilizante para muros Sika-Imper Mur 1 kg",
+    "price": 24.05,
+    "sku": "VE-3038209",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/b/1/b11c842e-703a-4b20-8777-b96dc89eb33a.jpg",
+    "product_url": "https://ve.epaenlinea.com/sika-imper-mur-impermeabilizante-1kg.html",
+    "in_stock": true
+  },
+  {
+    "name": "Lámina de yeso ½\" 1,22 x 2,44 m",
+    "price": 24.9,
+    "sku": "VE-3020002",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/2/2/229d56f2-075a-4f80-b93e-735cae0a97f5.jpg",
+    "product_url": "https://ve.epaenlinea.com/lamina-de-yeso-1-2-1-22-m-x-2-44-m.html",
+    "in_stock": true
+  },
+  {
+    "name": "Gancho para techo de acero corto 2 x 1\" plateado galvanizado Tezza",
+    "price": 25.5,
+    "sku": "VE-3018038",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/4/a/4aa50d96-0ea4-425c-ab27-7798c86bf622.jpg",
+    "product_url": "https://ve.epaenlinea.com/gancho-para-techo-de-acero-corto-2-x-1-plateado-galvanizado-tezza.html",
+    "in_stock": true
+  },
+  {
+    "name": "Pelicula plástico Stretch 25 cm (2 kg)",
+    "price": 25.65,
+    "sku": "VE-1830088",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/f/4/f44d1748-cc78-4eba-baf1-f104fbafad8f.jpg",
+    "product_url": "https://ve.epaenlinea.com/stretch-25cm-2kg.html",
+    "in_stock": true
+  },
+  {
+    "name": "Removedor de óxido Rustex Sika",
+    "price": 26.99,
+    "sku": "VE-3038010",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/6/2/6214f43d-f58f-495f-8646-1cac923545ee.jpg",
+    "product_url": "https://ve.epaenlinea.com/removedor-de-oxido-limpiador-de-superficies-metalicas-y-limp.html",
+    "in_stock": true
+  },
+  {
+    "name": "Tubo estrúctural rectangular galvanizado 3\" x 1/2\" x 6 m",
+    "price": 27.1,
+    "sku": "VE-3004118",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/f/9/f916daf9-1cba-4306-a425-4a42524ae622.jpg",
+    "product_url": "https://ve.epaenlinea.com/tubo-estructural-rectangular-galvanizado-3-x-1-2-x-6-m.html",
+    "in_stock": true
+  },
+  {
+    "name": "Angulo de acero 40 x 4 mm x 6 m",
+    "price": 29.35,
+    "sku": "VE-3014009",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/c/e/cecb3d9a-2f8f-4bd3-8f91-0ceeed2c0e15.jpg",
+    "product_url": "https://ve.epaenlinea.com/angulo-de-acero-40-x-4-mm-x-6-m.html",
+    "in_stock": true
+  },
+  {
+    "name": "Gancho para techo de acero largo 2 x 1\" plateado galvanizado Tezza",
+    "price": 29.5,
+    "sku": "VE-3018039",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/2/8/28d9aad4-2ec5-47a7-a211-b04607688a18.jpg",
+    "product_url": "https://ve.epaenlinea.com/gancho-para-techo-de-acero-largo-2-x-1-plateado-galvanizado-tezza.html",
+    "in_stock": true
+  },
+  {
+    "name": "Mastique para tabiquería 4 Gal",
+    "price": 29.65,
+    "sku": "VE-3020057",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/6/a/6ad3e049-b9d1-4c94-9290-5b00699d4c6d.jpg",
+    "product_url": "https://ve.epaenlinea.com/mastique-para-tabiqueria-de-4-gal.html",
+    "in_stock": true
+  },
+  {
+    "name": "Stretch film polietileno cuadrado transparente 3 x 5 m 100 micras pza",
+    "price": 31.25,
+    "sku": "VE-1830210",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/5/0/50508233-219c-40f0-bbc8-c437e301e5c0.jpg",
+    "product_url": "https://ve.epaenlinea.com/stretch-film-polietileno-cuadrado-transparente-3-x-5-m-100-micras-pza.html",
+    "in_stock": true
+  },
+  {
+    "name": "Aditivo para impermeabilizar concreto SikaCem",
+    "price": 31.4,
+    "sku": "VE-3038076",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/4/6/46cecf99-5960-491a-acaf-6399069b515d.jpg",
+    "product_url": "https://ve.epaenlinea.com/aditivo-para-fabricar-concreto-impermeable.html",
+    "in_stock": true
+  },
+  {
+    "name": "Lámina polipropileno roja 366 x 76 cm 1,2 mm",
+    "price": 33.45,
+    "sku": "VE-3019052",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/7/1/71be9b0a-38bd-428f-823c-fe63065ecb54.jpg",
+    "product_url": "https://ve.epaenlinea.com/lamina-polipropileno-roja-366-x-76cm-x-1-2mm.html",
+    "in_stock": true
+  },
+  {
+    "name": "Lámina polipropileno verde 366 x 76 cm 1,2 mm",
+    "price": 33.45,
+    "sku": "VE-3019053",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/1/4/14ccb42d-6bb8-40d1-b1b0-dc1ce2a3fcc4.jpg",
+    "product_url": "https://ve.epaenlinea.com/lamina-polipropileno-verde-366-x-76cm-x-1-2mm.html",
+    "in_stock": true
+  },
+  {
+    "name": "Stretch film polietileno cuadrado negro 3 x 5 m 200 micras pza",
+    "price": 34.4,
+    "sku": "VE-1830208",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/d/f/df970169-ddbd-4b72-ac3d-992a863c0906.jpg",
+    "product_url": "https://ve.epaenlinea.com/stretch-film-polietileno-cuadrado-negro-3-x-5-m-200-micras-pza.html",
+    "in_stock": true
+  },
+  {
+    "name": "Poste para malla perimetral verde electrostática de acero 2,5 m",
+    "price": 35.0,
+    "sku": "VE-3046035",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/c/4/c4802e62-5627-4600-8995-8e6077b9c5a7.jpg",
+    "product_url": "https://ve.epaenlinea.com/poste-para-malla-perimetral-verde-electrostatica-de-acero-2-5-m.html",
+    "in_stock": true
+  },
+  {
+    "name": "Stretch film polietileno tubular transparente 50 cm 23 micras pza",
+    "price": 35.9,
+    "sku": "VE-1830211",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/4/6/46aa2d87-e965-4642-9aea-b810f3a4f0db.jpg",
+    "product_url": "https://ve.epaenlinea.com/stretch-film-polietileno-tubular-transparente-50-cm-23-micras-pza.html",
+    "in_stock": true
+  },
+  {
+    "name": "Sellador elástico de grietas Sikatop 1,25 kg",
+    "price": 36.95,
+    "sku": "VE-3038009",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/0/0/005cda01-1dfb-4d57-9ee2-8d76e6fe8982.jpg",
+    "product_url": "https://ve.epaenlinea.com/sikatop-elastico-1-25-kg.html",
+    "in_stock": true
+  },
+  {
+    "name": "Sellador acrílico SellosTamp 1 litro",
+    "price": 37.0,
+    "sku": "VE-3038146",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/e/a/ea433f5a-b684-493d-8d08-87186d0cca5d.jpg",
+    "product_url": "https://ve.epaenlinea.com/sellador-acrilico-sellostamp-litro-de-1-kg.html",
+    "in_stock": true
+  },
+  {
+    "name": "Mastique Magic Gypsum cuñete 22,5 kg",
+    "price": 38.2,
+    "sku": "VE-3020010",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/1/4/14b2be7e-69b8-45f9-b6b8-d2f2575da76c.jpg",
+    "product_url": "https://ve.epaenlinea.com/mastique-magic-gypsum-cu-ete.html",
+    "in_stock": true
+  },
+  {
+    "name": "Recubrimiento acrílico impermeabilizante para techos Aquaflex gris 1 gal",
+    "price": 40.35,
+    "sku": "VE-0245023",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/2/9/2909071a-6680-49b8-a4b9-a1107211b6b9.jpg",
+    "product_url": "https://ve.epaenlinea.com/recubrimiento-acrilico-impermeabilizante-para-techos-aquaflex-gris-1-gal.html",
+    "in_stock": true
+  },
+  {
+    "name": "Aquaflex LA techos el blanco 1 galón",
+    "price": 40.35,
+    "sku": "VE-0245025",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/9/a/9adfc1c4-9529-427b-93fd-fdf804efac20.jpg",
+    "product_url": "https://ve.epaenlinea.com/aquaflex-la-techos-el-blanco-1-galon.html",
+    "in_stock": true
+  },
+  {
+    "name": "Recubrimiento acrílico impermeabilizante para techos Aquaflex rojo 1 gal",
+    "price": 40.35,
+    "sku": "VE-0245024",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/6/7/670cb533-03e4-401d-a96d-b675d3364e8c.jpg",
+    "product_url": "https://ve.epaenlinea.com/recubrimiento-acrilico-impermeabilizante-para-techos-aquaflex-rojo-1-gal.html",
+    "in_stock": true
+  },
+  {
+    "name": "Mortero gris Sika 101 20 kg",
+    "price": 42.5,
+    "sku": "VE-3038021",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/9/b/9be250e5-2378-4335-bea1-d68e39d0e53e.jpg",
+    "product_url": "https://ve.epaenlinea.com/sika-101-mortero-20-kg.html",
+    "in_stock": true
+  },
+  {
+    "name": "Pintura Impermanto verde 1 gal",
+    "price": 43.05,
+    "sku": "VE-0245019",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/1/8/186fe764-bc0b-4723-b82e-396ef9684fb3.jpg",
+    "product_url": "https://ve.epaenlinea.com/pintura-impermanto-verde-1-gal.html",
+    "in_stock": true
+  },
+  {
+    "name": "Aditivo adherente e impermeabilizante InstalTop 3.785 ml",
+    "price": 43.5,
+    "sku": "VE-3038095",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/3/e/3eeff30b-6007-4757-b367-e32a20c06e1a.jpg",
+    "product_url": "https://ve.epaenlinea.com/instaltop-garrafa-de-3-785-lts.html",
+    "in_stock": true
+  },
+  {
+    "name": "Angulo de acero 50 x 4 mm x 6 m",
+    "price": 44.65,
+    "sku": "VE-3014010",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/9/0/907a3927-bb3e-43a0-9efd-8382e786791c.jpg",
+    "product_url": "https://ve.epaenlinea.com/angulo-de-acero-50-x-4-mm-x-6-m.html",
+    "in_stock": true
+  },
+  {
+    "name": "Carretilla multifuncional soporta hasta 60 kg",
+    "price": 47.0,
+    "sku": "VE-3042032",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/c/e/ce7a856a-45de-4e3e-a753-b60fa385dd94.jpg",
+    "product_url": "https://ve.epaenlinea.com/carretilla-60-kilos.html",
+    "in_stock": true
+  },
+  {
+    "name": "Lámina Lamilit 3 x 0,72 m Canal Ancho",
+    "price": 49.75,
+    "sku": "VE-3017080",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/d/2/d2ed3022-8e70-4cc9-abcb-85549603ff09.jpg",
+    "product_url": "https://ve.epaenlinea.com/lamina-lamilit-3mx0-72m-canal-ancho.html",
+    "in_stock": true
+  },
+  {
+    "name": "Pintura aluminio base asfáltica 1 gal",
+    "price": 55.8,
+    "sku": "VE-3037308",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/2/d/2d1f3590-73f0-4c49-b813-69433c009fbe.jpg",
+    "product_url": "https://ve.epaenlinea.com/pintura-de-aluminio-de-base-asfaltica-1-galon.html",
+    "in_stock": true
+  },
+  {
+    "name": "Tubo estrúctural redondo galvanizado 1 1/4\" x 6,6 m",
+    "price": 57.5,
+    "sku": "VE-3004116",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/2/6/269d2d41-f57d-49f3-beea-1247277a6e98.jpg",
+    "product_url": "https://ve.epaenlinea.com/tubo-estructural-redondo-galvanizado-1-1-4-x-6-6-m.html",
+    "in_stock": true
+  },
+  {
+    "name": "Aditivo líquido impermeabilizante Sikatop 80 3,8 kg",
+    "price": 58.3,
+    "sku": "VE-3038005",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/4/1/41f559ee-a55d-4df1-b2ed-ee80634ceec5.jpg",
+    "product_url": "https://ve.epaenlinea.com/sikatop-80-3-8-kg.html",
+    "in_stock": true
+  },
+  {
+    "name": "Lavamopa 55 x 45 cm",
+    "price": 58.5,
+    "sku": "VE-3023019",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/3/9/390afd9f-4090-48d3-8c90-aa495f081b22.jpg",
+    "product_url": "https://ve.epaenlinea.com/lavamopa-55x45-cm.html",
+    "in_stock": true
+  },
+  {
+    "name": "Asfalto líquido 4 gal",
+    "price": 58.9,
+    "sku": "VE-3037036",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/f/4/f4462422-1ad2-43ea-a490-a772604549ca.jpg",
+    "product_url": "https://ve.epaenlinea.com/asfalto-liquido-4-galones.html",
+    "in_stock": true
+  },
+  {
+    "name": "Asfalto plástico 4 gal",
+    "price": 59.6,
+    "sku": "VE-3037037",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/f/0/f0d4adfc-0885-4e29-ab64-6249d4defb6b.jpg",
+    "product_url": "https://ve.epaenlinea.com/asfalto-plastico-4-galons.html",
+    "in_stock": true
+  },
+  {
+    "name": "Repelente al agua para fachadas Sika Silicón 3 kg",
+    "price": 59.7,
+    "sku": "VE-3038011",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/a/b/aba4aeb2-0175-460e-aa1c-1fb4711009bb.jpg",
+    "product_url": "https://ve.epaenlinea.com/sika-silicon-3-kg.html",
+    "in_stock": true
+  },
+  {
+    "name": "Primer Súper 4 gal",
+    "price": 59.8,
+    "sku": "VE-3037034",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/7/2/72df35ab-9c5d-478e-b818-8e0766a4caae.jpg",
+    "product_url": "https://ve.epaenlinea.com/primer-super-4-galones.html",
+    "in_stock": true
+  },
+  {
+    "name": "Teja asfáltica verde hexagonal 3m²",
+    "price": 60.3,
+    "sku": "VE-3037314",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/9/2/92c6bfe3-88b5-46bf-8c99-622b5235c925.jpg",
+    "product_url": "https://ve.epaenlinea.com/teja-asfaltica-3m2-verde-hexagonal.html",
+    "in_stock": true
+  },
+  {
+    "name": "Teja asfáltica roja hexagonal 3m²",
+    "price": 60.3,
+    "sku": "VE-3037313",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/4/1/41ed0509-fccf-4bc7-aac6-e4f90e18ed5e.jpg",
+    "product_url": "https://ve.epaenlinea.com/teja-asfaltica-3m2-roja-hexagonal.html",
+    "in_stock": true
+  },
+  {
+    "name": "Batea de concreto 62 x 32 cm",
+    "price": 61.3,
+    "sku": "VE-3023018",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/3/7/371e7a53-4653-489f-b650-f3815f9b16e7.jpg",
+    "product_url": "https://ve.epaenlinea.com/batea-de-concreto-62x32-cm.html",
+    "in_stock": true
+  },
+  {
+    "name": "Manto asfáltico reforzado 3,2 mm",
+    "price": 62.9,
+    "sku": "VE-3037270",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/9/7/9745df40-66c4-4993-976e-e3e8a73fbc85.jpg",
+    "product_url": "https://ve.epaenlinea.com/manto-asfaltico-reforzado-3-2mm.html",
+    "in_stock": true
+  },
+  {
+    "name": "Carrucha multifuncional soporta hasta 150 kg",
+    "price": 63.0,
+    "sku": "VE-3042031",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/0/7/07b2d2b9-5e0e-4237-a4bb-d107488d47f9.jpg",
+    "product_url": "https://ve.epaenlinea.com/carrucha-multifuncional-soporta-hasta-150-kg.html",
+    "in_stock": true
+  },
+  {
+    "name": "Manto asfáltico 2,7 mm",
+    "price": 64.5,
+    "sku": "VE-3037288",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/c/f/cf7ff037-abdc-4149-9b8e-1b551065b984.jpg",
+    "product_url": "https://ve.epaenlinea.com/manto-asfaltico-2-7mm.html",
+    "in_stock": true
+  },
+  {
+    "name": "Batea concreto 60 x 40 cm",
+    "price": 64.7,
+    "sku": "VE-3023312",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/a/e/ae76cbce-bd85-433f-9386-0bc6a1324fc1.jpg",
+    "product_url": "https://ve.epaenlinea.com/batea-60x40-cm.html",
+    "in_stock": true
+  },
+  {
+    "name": "Lámina Milteja 0,27 mm 3 m",
+    "price": 65.7,
+    "sku": "VE-3017000",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/c/e/ce902de9-3ec6-42d0-8cb7-3da70cf5527d.jpg",
+    "product_url": "https://ve.epaenlinea.com/lamina-milteja-3m-espesor-0-27mm.html",
+    "in_stock": true
+  },
+  {
+    "name": "Lámina Lamilit 4 x 0,72 m Canal Ancho",
+    "price": 66.4,
+    "sku": "VE-3017081",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/7/2/725bd2a9-8124-49d4-b8f7-fc593972bb72.jpg",
+    "product_url": "https://ve.epaenlinea.com/lamina-lamilit-4mx0-72m-canal-ancho.html",
+    "in_stock": true
+  },
+  {
+    "name": "Tubo estrúctural redondo galvanizado 2\" x 6,6 m",
+    "price": 72.6,
+    "sku": "VE-3004117",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/c/0/c05d1ac9-e723-4fac-917e-af4e206b42ff.jpg",
+    "product_url": "https://ve.epaenlinea.com/tubo-estructural-redondo-galvanizado-2-x-6-6-m.html",
+    "in_stock": true
+  },
+  {
+    "name": "Tanque para agua cónico polietileno 250 litros",
+    "price": 76.0,
+    "sku": "VE-3035008",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/c/8/c8dc2e3c-361d-455f-8f6e-c1d7adbc3fb7.jpg",
+    "product_url": "https://ve.epaenlinea.com/tanque-conico-de-polietileno-250-litros.html",
+    "in_stock": true
+  },
+  {
+    "name": "Cemento plástico 4 gal",
+    "price": 76.2,
+    "sku": "VE-3037031",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/a/c/ac22fd0d-6c8f-4e98-b0f7-2712a077f66f.jpg",
+    "product_url": "https://ve.epaenlinea.com/cemento-plastico-4-gal.html",
+    "in_stock": true
+  },
+  {
+    "name": "Tambor multiusos 200 litros con tapa",
+    "price": 79.2,
+    "sku": "VE-3035030",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/6/f/6f8b10b9-3e9e-4c58-ab09-c713a5380cea.jpg",
+    "product_url": "https://ve.epaenlinea.com/tambor-de-200-litros-con-tapa.html",
+    "in_stock": true
+  },
+  {
+    "name": "Manto aluminizado 3 mm",
+    "price": 86.0,
+    "sku": "VE-3037068",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/8/a/8a267eca-936c-4b3f-a0ac-88453851efb8.jpg",
+    "product_url": "https://ve.epaenlinea.com/manto-aluminizado-3mm.html",
+    "in_stock": true
+  },
+  {
+    "name": "Sellador acrílico transparente base agua SelloStamp",
+    "price": 91.0,
+    "sku": "VE-3038091",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/c/2/c24f4825-1557-4fc0-ba9e-1e7034f5c6cf.jpg",
+    "product_url": "https://ve.epaenlinea.com/sellostamp-gal.html",
+    "in_stock": true
+  },
+  {
+    "name": "Para adherir concreto fresco a endurecido SIKA-DUR 32 Primer 1 kg",
+    "price": 92.4,
+    "sku": "VE-3038210",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/7/d/7d731bc0-1029-4111-b625-296fa4ccfeb8.jpg",
+    "product_url": "https://ve.epaenlinea.com/sika-dur-32-primer-1kg.html",
+    "in_stock": true
+  },
+  {
+    "name": "Alambre púas calibre 16 400 m",
+    "price": 99.0,
+    "sku": "VE-3013570",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/1/8/18c0f5f6-3609-4646-ab06-1927e5d05c0d.jpg",
+    "product_url": "https://ve.epaenlinea.com/alambre-puas-calibre-16x400m.html",
+    "in_stock": true
+  },
+  {
+    "name": "Repara manto Interprimer Pro 4 gal",
+    "price": 99.0,
+    "sku": "VE-3037071",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/c/8/c808c469-507a-4aa7-bea5-38c596886d75.jpg",
+    "product_url": "https://ve.epaenlinea.com/reparamanto-interprimer-pro-4-galones.html",
+    "in_stock": true
+  },
+  {
+    "name": "Carretilla antipinchazo 75 litros",
+    "price": 107.0,
+    "sku": "VE-3042034",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/3/d/3d78eb9b-3dab-42df-81c1-21035e9d2a33.jpg",
+    "product_url": "https://ve.epaenlinea.com/carretilla-75-lt-antipinchazo.html",
+    "in_stock": true
+  },
+  {
+    "name": "Tanque para agua cilíndrico 320 litros",
+    "price": 110.0,
+    "sku": "VE-3035003",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/4/3/43ae6b79-397f-4e14-bb66-d45aadec6473.jpg",
+    "product_url": "https://ve.epaenlinea.com/tanque-cilindrico-para-agua-de-320-litros.html",
+    "in_stock": true
+  },
+  {
+    "name": "Tanque para agua polietileno 460 litros",
+    "price": 122.0,
+    "sku": "VE-3035058",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/5/c/5c7fbf85-d02b-4c00-8ad7-879bfcdf8ef3.jpg",
+    "product_url": "https://ve.epaenlinea.com/tanque-460.html",
+    "in_stock": true
+  },
+  {
+    "name": "Tanque para agua 600 litros Deco Glass",
+    "price": 132.0,
+    "sku": "VE-3035028",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/c/c/cc32c487-acff-4c52-8d1a-8bce430c1b8c.jpg",
+    "product_url": "https://ve.epaenlinea.com/tanque-de-agua-de-600lts-deco-glass.html",
+    "in_stock": true
+  },
+  {
+    "name": "Carrucha con ruedas macizas 8\"",
+    "price": 140.01,
+    "sku": "VE-3042103",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/6/d/6dd7e42e-81af-412d-a380-a43e91242b77.jpg",
+    "product_url": "https://ve.epaenlinea.com/carrucha-con-ruedas-macizas-8.html",
+    "in_stock": true
+  },
+  {
+    "name": "Manto asfáltico 2,2 mm autoadhesivo",
+    "price": 146.0,
+    "sku": "VE-3037290",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/3/f/3f96b9ff-6283-429e-afdf-b6d10fe9e8f4.jpg",
+    "product_url": "https://ve.epaenlinea.com/manto-asfaltico-2-2mm-autoadhesivo.html",
+    "in_stock": true
+  },
+  {
+    "name": "Mantoflex para piso y pared verde semi satinado cuñete 5 gal",
+    "price": 150.0,
+    "sku": "VE-0245026",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/8/6/86088355-8242-4747-930f-f6da1d4cabfa.jpg",
+    "product_url": "https://ve.epaenlinea.com/mantoflex-para-piso-y-pared-verde-semi-satinado-cu-ete-5-gal.html",
+    "in_stock": true
+  },
+  {
+    "name": "Mantoflex para piso y pared rojo semi satinado cuñete 5 gal",
+    "price": 150.0,
+    "sku": "VE-0245027",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/1/7/178977d4-a6e1-4095-ad60-ca14fb75a079.jpg",
+    "product_url": "https://ve.epaenlinea.com/mantoflex-para-piso-y-pared-rojo-semi-satinado-cu-ete-5-gal.html",
+    "in_stock": true
+  },
+  {
+    "name": "Mantoflex para piso y pared gris semi satinado cuñete 5 gal",
+    "price": 150.0,
+    "sku": "VE-0245028",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/3/0/3089cb74-0e9c-412a-86d7-7e6e3a010d61.jpg",
+    "product_url": "https://ve.epaenlinea.com/mantoflex-para-piso-y-pared-gris-semi-satinado-cu-ete-5-gal.html",
+    "in_stock": true
+  },
+  {
+    "name": "Tanque para agua para apartamento 520 litros",
+    "price": 154.0,
+    "sku": "VE-3035022",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/7/f/7f2cbd4e-fdb2-4d16-bf43-2742c32e3260.jpg",
+    "product_url": "https://ve.epaenlinea.com/tanque-para-apartamento-520-litros.html",
+    "in_stock": true
+  },
+  {
+    "name": "Aquaflex para techos blanco mate 4 gal",
+    "price": 155.0,
+    "sku": "VE-0245032",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/c/4/c4e1fbbb-7c22-4c36-b47f-eb8340908ea8.jpg",
+    "product_url": "https://ve.epaenlinea.com/aquaflex-para-techos-blanco-mate-4-gal.html",
+    "in_stock": true
+  },
+  {
+    "name": "Aquaflex para techos gris mate 4 gal",
+    "price": 155.0,
+    "sku": "VE-0245033",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/3/b/3bf8fc30-c282-4199-840b-edf79f1b3bdd.jpg",
+    "product_url": "https://ve.epaenlinea.com/aquaflex-para-techos-gris-mate-4-gal.html",
+    "in_stock": true
+  },
+  {
+    "name": "Aquaflex para techos verde mate 4 gal",
+    "price": 155.0,
+    "sku": "VE-0245034",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/e/1/e18ffd6c-20bc-4d1a-a929-e2d8302ebac0.jpg",
+    "product_url": "https://ve.epaenlinea.com/aquaflex-para-techos-verde-mate-4-gal.html",
+    "in_stock": true
+  },
+  {
+    "name": "Aquaflex para techos rojo mate 4 gal",
+    "price": 155.0,
+    "sku": "VE-0245035",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/c/9/c993f92a-39f0-4a48-bea2-0119cfc1f7b4.jpg",
+    "product_url": "https://ve.epaenlinea.com/aquaflex-para-techos-rojo-mate-4-gal.html",
+    "in_stock": true
+  },
+  {
+    "name": "Alambre púas 15x500",
+    "price": 155.0,
+    "sku": "VE-3013027",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/8/c/8c6cfa74-15ac-406d-ae32-5ac90b58a1f3.jpg",
+    "product_url": "https://ve.epaenlinea.com/alambre-puas-15x500.html",
+    "in_stock": true
+  },
+  {
+    "name": "Tanque para agua cónico polietileno 900 litros",
+    "price": 158.0,
+    "sku": "VE-3035017",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/e/0/e0556990-99fc-4a1f-960c-d390aab2e89a.jpg",
+    "product_url": "https://ve.epaenlinea.com/tanque-conico-de-polietileno-900-l.html",
+    "in_stock": true
+  },
+  {
+    "name": "Pintura aluminio base asfáltica 4 gal",
+    "price": 180.0,
+    "sku": "VE-3037074",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/4/4/44ce3027-b219-4cb3-b2e6-87bb8c9e41c7.jpg",
+    "product_url": "https://ve.epaenlinea.com/pintura-aluminio-4-galones-base-asfaltica.html",
+    "in_stock": true
+  },
+  {
+    "name": "Tanque para agua 1.100 litros Deco Glass",
+    "price": 203.0,
+    "sku": "VE-3035012",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/a/9/a90d0b55-40ee-46bf-983a-1012b3d3a010.jpg",
+    "product_url": "https://ve.epaenlinea.com/tanque-para-agua-1100lts-deco-glass.html",
+    "in_stock": true
+  },
+  {
+    "name": "Carrucha buhonera maciza 10\"",
+    "price": 218.0,
+    "sku": "VE-3042003",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/d/2/d2274d10-c709-47cf-97d2-e8eaabc13fa9.jpg",
+    "product_url": "https://ve.epaenlinea.com/carrucha-buhonera-maciza-de-10.html",
+    "in_stock": true
+  },
+  {
+    "name": "Malla ciclón acero galvanizado 183 x 26,5 cm #11",
+    "price": 230.0,
+    "sku": "VE-3046036",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/c/d/cda1b3e3-6399-42fb-a792-b00e239d34ef.jpg",
+    "product_url": "https://ve.epaenlinea.com/malla-ciclon-acero-galvanizado-183-x-26-5-cm-11.html",
+    "in_stock": true
+  },
+  {
+    "name": "Tanque para agua polietileno 1.000 litros",
+    "price": 241.0,
+    "sku": "VE-3035103",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/0/d/0d5c27e0-e28e-4532-8861-336a65cd27f6.jpg",
+    "product_url": "https://ve.epaenlinea.com/tanque-polietileno-1000l-apto.html",
+    "in_stock": true
+  },
+  {
+    "name": "Tanque para agua polietileno 2000 litros Deco Glass",
+    "price": 444.0,
+    "sku": "VE-3035024",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/a/a/aa9aa117-c713-4c16-9f60-16ecded97665.jpg",
+    "product_url": "https://ve.epaenlinea.com/tanque-para-agua-polietileno-2000-litros-deco-glass.html",
+    "in_stock": true
+  },
+  {
+    "name": "Bloque arcilla terracota 15 x 20 x 30 cm",
+    "price": 0.05,
+    "sku": "VE-3029213",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/6/e/6e666954-42ee-4836-bd29-3b594aa2e7dd.jpg",
+    "product_url": "https://ve.epaenlinea.com/bloque-arcilla-terracota-15-x-20-x-30-cm.html",
+    "in_stock": false
+  },
+  {
+    "name": "Bloque arcilla terracota 10 x 20 x 30 cm",
+    "price": 0.05,
+    "sku": "VE-3029212",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/b/a/ba9d459f-b7ac-4ac1-a36b-b91ba7b282ed.jpg",
+    "product_url": "https://ve.epaenlinea.com/bloque-arcilla-terracota-10-x-20-x-30-cm.html",
+    "in_stock": false
+  },
+  {
+    "name": "Pego Occidente estándar gris 14 kg",
+    "price": 0.1,
+    "sku": "VE-3026117",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/7/c/7c19c89a-1818-452d-9b87-bfb0dd36baba.jpg",
+    "product_url": "https://ve.epaenlinea.com/pego-occidente-estandar-gris-14-kg.html",
+    "in_stock": false
+  },
+  {
+    "name": "Pegamento para baldosas y multiusos estándar gris Atria 12 kg",
+    "price": 0.41,
+    "sku": "VE-3026114",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/1/0/10008e4e-bb82-45b2-bd1e-26610b08baab.jpg",
+    "product_url": "https://ve.epaenlinea.com/pego-estandar-gris-atria-de-12kg.html",
+    "in_stock": false
+  },
+  {
+    "name": "Teja caribe ejecutiva de arcilla 1 x 27 x 45 cm",
+    "price": 1.1,
+    "sku": "VE-3029015",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/b/d/bdfb2af7-ee91-4868-801c-04297f83bad9.jpg",
+    "product_url": "https://ve.epaenlinea.com/teja-caribe-ejecutiva-de-arcilla-1-x-27-x-45-cm.html",
+    "in_stock": false
+  },
+  {
+    "name": "Tabelón de arcilla 6 x 20 x 80 cm",
+    "price": 1.17,
+    "sku": "VE-3016047",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/2/6/26a806a1-b384-4b83-b037-eaf6a883ed8d.jpg",
+    "product_url": "https://ve.epaenlinea.com/tabelon-de-arcilla-6-x-20-x-80-cm.html",
+    "in_stock": false
+  },
+  {
+    "name": "Tabelón de arcilla 8 x 20 x 80 cm",
+    "price": 1.23,
+    "sku": "VE-3016048",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/2/2/225e018b-0afb-4974-8492-3596cca65264.jpg",
+    "product_url": "https://ve.epaenlinea.com/tabelon-de-arcilla-8-x-20-x-80-cm.html",
+    "in_stock": false
+  },
+  {
+    "name": "Alambre liso calibre 17,5 750 g",
+    "price": 3.5,
+    "sku": "VE-3013025",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/f/6/f6704c26-06bb-45e2-90be-1ca90eea2a74.jpg",
+    "product_url": "https://ve.epaenlinea.com/alambre-liso-750-gr-calibre-17-5.html",
+    "in_stock": false
+  },
+  {
+    "name": "Malla Hex pajarera ½\" x 1\" (precio por metro)",
+    "price": 4.34,
+    "sku": "VE-3050116",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/2/a/2aff2966-e171-46eb-ab42-dce802e8d1e5.jpg",
+    "product_url": "https://ve.epaenlinea.com/malla-pajarera-de-1-2-x-1x30m.html",
+    "in_stock": false
+  },
+  {
+    "name": "Malla pollito 1\" x 1\" m negra (precio por metro)",
+    "price": 4.85,
+    "sku": "VE-3052008",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/e/5/e55573c1-bc85-4548-ad41-14125d45ace5.jpg",
+    "product_url": "https://ve.epaenlinea.com/malla-pollito-de-1-x-1-mts-alto-color-negro.html",
+    "in_stock": false
+  },
+  {
+    "name": "Malla cedazo negra 4x4 0,9 m (precio por metro)",
+    "price": 4.95,
+    "sku": "VE-3052055",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/4/0/40d904d0-7509-4e35-ad1c-097109adf2e1.jpg",
+    "product_url": "https://ve.epaenlinea.com/malla-cedazo-negro.html",
+    "in_stock": false
+  },
+  {
+    "name": "Malla pollito 1/2\" 1,5 m (precio por metro)",
+    "price": 6.1,
+    "sku": "VE-3052007",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/6/5/6525d007-45f0-476b-a42a-97c68c9b61ef.jpg",
+    "product_url": "https://ve.epaenlinea.com/malla-pollito-1-2-1-5-m-de-ancho-precio-por-metro.html",
+    "in_stock": false
+  },
+  {
+    "name": "Zuncho cuadrado 15 x 15 cm 5,2 mm",
+    "price": 6.3,
+    "sku": "VE-3010010",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/5/4/54e31474-8177-484d-8420-8c7eecf6a565.jpg",
+    "product_url": "https://ve.epaenlinea.com/cuad-15x15cm-5-2mm.html",
+    "in_stock": false
+  },
+  {
+    "name": "Moldura V40 de polipropileno blanca 2 m",
+    "price": 6.75,
+    "sku": "VE-2023026",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/d/a/dad4a656-3e0c-490f-948e-0d2c7bb13c95.jpg",
+    "product_url": "https://ve.epaenlinea.com/moldura-v40-de-polipropileno-blanca-2-m.html",
+    "in_stock": false
+  },
+  {
+    "name": "Malla pollito 3/4\" 1,83 m negra (precio por metro)",
+    "price": 7.2,
+    "sku": "VE-3052027",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/f/e/fe96ec27-690c-473d-86cf-a3269276f4cf.jpg",
+    "product_url": "https://ve.epaenlinea.com/malla-pollito-3-4-1-83-m-negra-precio-por-metro.html",
+    "in_stock": false
+  },
+  {
+    "name": "Malla mosquitera aluminio 1,05 m (precio por metro)",
+    "price": 7.93,
+    "sku": "VE-3048034",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/b/4/b4cfe5ed-d94d-4583-bbc0-ee5ba4c5ad14.jpg",
+    "product_url": "https://ve.epaenlinea.com/malla-para-mosquitero-de-aluminio-1-05m-de-ancho-25-metros-d.html",
+    "in_stock": false
+  },
+  {
+    "name": "Gancho corto 3\" x 1\"",
+    "price": 8.67,
+    "sku": "VE-3018023",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/9/7/97d74297-03f2-4997-a64c-e8b432f33d07.jpg",
+    "product_url": "https://ve.epaenlinea.com/gancho-3-x-1-tipo-corto.html",
+    "in_stock": false
+  },
+  {
+    "name": "Gancho corto 2\" x 2\"",
+    "price": 8.67,
+    "sku": "VE-3018027",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/4/7/47f586f8-2d88-4a07-a4ce-cab9d2b04476.jpg",
+    "product_url": "https://ve.epaenlinea.com/gancho-2-x-2-tipo-corto.html",
+    "in_stock": false
+  },
+  {
+    "name": "Gancho largo 3\" x 1\"",
+    "price": 8.67,
+    "sku": "VE-3018024",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/9/f/9fc39a4c-a719-4960-aef1-0bc1b712a692.jpg",
+    "product_url": "https://ve.epaenlinea.com/gancho-3-x-1-tipo-largo.html",
+    "in_stock": false
+  },
+  {
+    "name": "Cemento Portland tipo II gris 42,5 kg",
+    "price": 9.95,
+    "sku": "VE-3026081",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/8/a/8a520d85-d5d9-44f3-87a9-eed9e5448da6.jpg",
+    "product_url": "https://ve.epaenlinea.com/cemento-portland-tipo-ii-gris-42-5-kg.html",
+    "in_stock": false
+  },
+  {
+    "name": "Gancho largo 3\" x 1½\"",
+    "price": 10.35,
+    "sku": "VE-3018026",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/0/b/0b7cdc0c-ab99-4338-8afc-dd3e6d20bdb3.jpg",
+    "product_url": "https://ve.epaenlinea.com/gancho-3x1-1-2-tipo-largo.html",
+    "in_stock": false
+  },
+  {
+    "name": "Gancho 3x1 1 2 corto",
+    "price": 10.35,
+    "sku": "VE-3018025",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/c/0/c0432e51-7589-43f9-9e73-a2947d05558e.jpg",
+    "product_url": "https://ve.epaenlinea.com/gancho-3x1-1-2-corto.html",
+    "in_stock": false
+  },
+  {
+    "name": "Tubo estructural cuadrado metálico 1\" x 1\" x 6 m",
+    "price": 10.9,
+    "sku": "VE-3004111",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/b/0/b0444438-7386-4787-9cce-d80669d8574a.jpg",
+    "product_url": "https://ve.epaenlinea.com/tubo-estructural-cuadrado-metalico-1-x-1-x-6-m.html",
+    "in_stock": false
+  },
+  {
+    "name": "Barra metálica redonda 1/2\" x 6 m",
+    "price": 11.2,
+    "sku": "VE-3008014",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/e/4/e4d27b2b-c3e5-4186-afa4-eb29a2d7b63e.jpg",
+    "product_url": "https://ve.epaenlinea.com/barra-metalica-redonda-1-2-x-6-m.html",
+    "in_stock": false
+  },
+  {
+    "name": "Microfibra SIKA-FIBER 0,6 kg",
+    "price": 12.69,
+    "sku": "VE-3044010",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/b/5/b5f32010-aaff-4e2e-b0a4-3a1fda5b9dbc.jpg",
+    "product_url": "https://ve.epaenlinea.com/sika-fiber-microfibra-0-6kg.html",
+    "in_stock": false
+  },
+  {
+    "name": "Lámina ondulada zinc 2 mm 83 x 360 cm",
+    "price": 13.25,
+    "sku": "VE-3018020",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/7/8/7873ffb9-52d8-4a47-a9e7-99ad48f705ff.jpg",
+    "product_url": "https://ve.epaenlinea.com/lamina-ondulada-zinc-2-mm-83-x-360-cm.html",
+    "in_stock": false
+  },
+  {
+    "name": "Barra metálica cuadrada 1/2\" x 6 m",
+    "price": 14.25,
+    "sku": "VE-3008013",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/d/2/d28aca67-71a7-41d3-ab6a-1142efd5412f.jpg",
+    "product_url": "https://ve.epaenlinea.com/barra-metalica-cuadrada-1-2-x-6-m.html",
+    "in_stock": false
+  },
+  {
+    "name": "Angulo plano galón vanizado tipo \"t\" 2x3\"",
+    "price": 15.44,
+    "sku": "VE-1826171",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/5/5/550e0c6e-5e5a-4c56-af45-766c67d7febf.jpg",
+    "product_url": "https://ve.epaenlinea.com/angulo-plano-galon-vanizado-tipo-t-2x3.html",
+    "in_stock": false
+  },
+  {
+    "name": "Rodapié MDF roble argento",
+    "price": 17.17,
+    "sku": "VE-2023001",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/0/a/0ae90146-db93-4275-9866-d8c519c6aa8f.jpg",
+    "product_url": "https://ve.epaenlinea.com/rodapie-mdf-modelo-ecorc-color-roble-argento.html",
+    "in_stock": false
+  },
+  {
+    "name": "Tubo estructural rectangular metálico 2\" x 1\" x 6 m",
+    "price": 18.2,
+    "sku": "VE-3004115",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/9/4/94f5628e-c691-4d79-98f2-fbf54492d4b3.jpg",
+    "product_url": "https://ve.epaenlinea.com/tubo-estructural-rectangular-metalico-2-x-1-x-6-m.html",
+    "in_stock": false
+  },
+  {
+    "name": "Aditivo líquido impermeabilizante SIKA 1 3,8 kg",
+    "price": 26.5,
+    "sku": "VE-3038013",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/1/f/1f8ea50a-9b72-4672-bec6-f4523423e9ea.jpg",
+    "product_url": "https://ve.epaenlinea.com/sika-1-3-8kg.html",
+    "in_stock": false
+  },
+  {
+    "name": "Tubo estructural rectangular metálico 3 x 1 ½\" x 6 m",
+    "price": 30.55,
+    "sku": "VE-3004113",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/6/e/6e4c46ef-22d5-4031-a648-633e57c31ae7.jpg",
+    "product_url": "https://ve.epaenlinea.com/tubo-estructural-rectangular-metalico-3-x-1-x-6-m.html",
+    "in_stock": false
+  },
+  {
+    "name": "Pintura Impermanto rojo 1 gal",
+    "price": 43.05,
+    "sku": "VE-0245018",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/9/7/979332cd-d347-4ba3-8794-42e792837d42.jpg",
+    "product_url": "https://ve.epaenlinea.com/pintura-impermanto-rojo-1-gal.html",
+    "in_stock": false
+  },
+  {
+    "name": "Malla electrosoldada galvanizada 2\" x 1\" 36\" (0.91 x 7,5 m)",
+    "price": 59.8,
+    "sku": "VE-3044012",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/b/d/bdc0e0c8-082e-4979-8bbe-6867ae6611a8.jpg",
+    "product_url": "https://ve.epaenlinea.com/malla-electrosoldada-galvanizada-2-x1-36-x-25-0-91-x-7-5-m.html",
+    "in_stock": false
+  },
+  {
+    "name": "Lámina Superlit 4 x 0,72 m",
+    "price": 66.4,
+    "sku": "VE-3017012",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/d/b/dbc0ac9b-1217-4c6f-868d-2ab3b088d7ff.jpg",
+    "product_url": "https://ve.epaenlinea.com/lamina-superlit-4m-x-0-72m.html",
+    "in_stock": false
+  },
+  {
+    "name": "Plástico burbuja bobina 45 m (30 cm alto)",
+    "price": 83.0,
+    "sku": "VE-1830173",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/8/3/836748c0-9227-4381-9d4a-a452b1f5694c.jpg",
+    "product_url": "https://ve.epaenlinea.com/plastico-burbuja-bobina-45-mts-x-30-cm-de-alto.html",
+    "in_stock": false
+  },
+  {
+    "name": "Malla electrosoldada galvanizada medidas 2\" x 2\" 36\" (0.91 x 15,2 m)",
+    "price": 83.15,
+    "sku": "VE-3044013",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/a/e/aea34a52-105f-4704-b35c-c0d03c9cf2a9.jpg",
+    "product_url": "https://ve.epaenlinea.com/malla-electrosoldada-galvanizada-medidas-2-x-2-36-0-91-x-15-2-m.html",
+    "in_stock": false
+  },
+  {
+    "name": "Cerca estructural de acero con pintura electrostática verde 2 x 2,5 m",
+    "price": 99.9,
+    "sku": "VE-3046034",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/4/f/4f551af5-c8cc-4529-addb-be502ccc8fb0.jpg",
+    "product_url": "https://ve.epaenlinea.com/cerca-estructural-de-acero-con-pintura-electrostatica-verde-2-x-2-5-m.html",
+    "in_stock": false
+  },
+  {
+    "name": "Manto asfáltico granulado decorativo 1 x 10 m",
+    "price": 102.0,
+    "sku": "VE-3037331",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/8/6/8633ba21-3095-41cf-9954-5d42cce12c5c.jpg",
+    "product_url": "https://ve.epaenlinea.com/manto-asfaltico-granulado-con-efecto-decorativo-1x10m.html",
+    "in_stock": false
+  },
+  {
+    "name": "Barra redonda lisa 9 mm x 6 m",
+    "price": 6.66,
+    "sku": "VE-3008012",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/0/0/00b2916a-6098-42a8-ad39-f32dbdae756a.jpg",
+    "product_url": "https://ve.epaenlinea.com/barra-redonda-lisa-9-mm-x-6-m.html",
+    "in_stock": false
+  },
+  {
+    "name": "TELA FLEXCOAT 15CMX25M",
+    "price": 6.89,
+    "sku": "VE-3038166",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/5/4/54a8a204-96ca-49a3-a913-0516f6080b7e.jpg",
+    "product_url": "https://ve.epaenlinea.com/tela-flexcoat-15cmx25m.html",
+    "in_stock": false
+  },
+  {
+    "name": "Cemento Portland tipo I gris 42,5 kg",
+    "price": 12.85,
+    "sku": "VE-3026082",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/4/0/403d2102-f695-44bb-87d7-e7d3f01d9070.jpg",
+    "product_url": "https://ve.epaenlinea.com/cemento-portland-tipo-i-gris-42-5-kg.html",
+    "in_stock": false
+  },
+  {
+    "name": "TELA DE REFUERZO FLEXCOAT Rollo de 10mts",
+    "price": 13.99,
+    "sku": "VE-3038161",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/1/b/1bc569bc-c91f-44f1-9dc4-d3f99972a5ea.jpg",
+    "product_url": "https://ve.epaenlinea.com/tela-de-refuerzo-flexcoat-rollo-de-10mts.html",
+    "in_stock": false
+  },
+  {
+    "name": "IMPERM VERDE 1GAL",
+    "price": 18.97,
+    "sku": "VE-3038203",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/f/e/fe94af4c-9244-4159-bde4-73140b459d7d.jpg",
+    "product_url": "https://ve.epaenlinea.com/imperm-verde-1gal.html",
+    "in_stock": false
+  },
+  {
+    "name": "IMPERM ROJO 1 GAL",
+    "price": 18.97,
+    "sku": "VE-3038204",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/d/5/d5aae0ad-a3cd-4f2a-b9f6-b51d4f851b2b.jpg",
+    "product_url": "https://ve.epaenlinea.com/imperm-rojo-1-gal.html",
+    "in_stock": false
+  },
+  {
+    "name": "Ceramicoat Impermeabilizante Acrilico Rojo Galon",
+    "price": 24.97,
+    "sku": "VE-3038148",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/8/4/84412f7c-5d90-44c6-841a-98a22874ac90.jpg",
+    "product_url": "https://ve.epaenlinea.com/ceramicoat-impermeabilizante-acrilico-rojo-galon.html",
+    "in_stock": false
+  },
+  {
+    "name": "CERAMICOAT VERDE GAL",
+    "price": 26.97,
+    "sku": "VE-3038149",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/6/c/6c8e5a22-ea75-4f70-91a8-5959d3a11ebb.jpg",
+    "product_url": "https://ve.epaenlinea.com/ceramicoat-verde-gal.html",
+    "in_stock": false
+  },
+  {
+    "name": "Ceramicoat Impermeabilizante Acrilico Gris Galon",
+    "price": 29.97,
+    "sku": "VE-3038150",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/5/7/5768bbb5-fca7-4fa9-973d-e69dcf68e4f9.jpg",
+    "product_url": "https://ve.epaenlinea.com/ceramicoat-impermeabilizante-acrilico-gris-galon.html",
+    "in_stock": false
+  },
+  {
+    "name": "TELA FLEXCOAT 25 M2",
+    "price": 38.96,
+    "sku": "VE-3038162",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/5/9/59928a49-bd48-438d-a21e-e112f1299f0a.jpg",
+    "product_url": "https://ve.epaenlinea.com/tela-flexcoat-25-m2.html",
+    "in_stock": false
+  },
+  {
+    "name": "IMPERM ROJO 5GAL",
+    "price": 94.89,
+    "sku": "VE-3038202",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/6/a/6a76dd17-84e7-4818-8c77-ea0e52c5db9d.jpg",
+    "product_url": "https://ve.epaenlinea.com/imperm-rojo-5gal.html",
+    "in_stock": false
+  },
+  {
+    "name": "Ceramicoat Impermeabilizante Acrílico Rojo",
+    "price": 99.89,
+    "sku": "VE-3038116",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/1/3/13fb8831-d3d1-4ffb-a3de-3a1491c873b7.jpg",
+    "product_url": "https://ve.epaenlinea.com/ceramicoat-impermeabilizante-acrilico-rojo.html",
+    "in_stock": false
+  },
+  {
+    "name": "Ceramicoat Impermeabilizante Acrílico Verde",
+    "price": 99.89,
+    "sku": "VE-3038115",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/f/f/ffc4c706-58db-437f-959b-e2706ff4c62f.jpg",
+    "product_url": "https://ve.epaenlinea.com/ceramicoat-impermeabilizante-acrilico-verde.html",
+    "in_stock": false
+  },
+  {
+    "name": "Ceramicoat Impermeabilizante Acrílico Blanco",
+    "price": 104.88,
+    "sku": "VE-3038114",
+    "image_url": "https://ve.epaenlinea.com/media/catalog/product/cache/98843edd9177e230b1594f272520bdc5/1/2/12bc97a9-2aa7-4f3e-af23-a3febc8a9092.jpg",
+    "product_url": "https://ve.epaenlinea.com/ceramicoat-impermeabilizante-acrilico-blanco.html",
+    "in_stock": false
+  }
+]
